@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="{{ url_for('static', filename='result.css') }}">
+        <title>House price prediction history</title>
+    </head>
+    <body>
+        <div class="form-container">
+            <h1>Prediction History</h1>
+            
+            
+
+            {% if predictions %}
+                <table style="width:100%; margin-top:20px; border-collapse: collapse;">
+                    <tr>
+                        <th style="border:2px solid #ccc; padding:8px;">Date</th>
+                        <th style="border:2px solid #ccc; padding:8px;">Rooms</th>
+                        <th style="border:2px solid #ccc; padding:8px;">Site Area</th>
+                        <th style="border:2px solid #ccc; padding:8px;">Built Area</th>
+                         <th style="border:2px solid #ccc; padding:8px;">Property Years</th>
+                        <th style="border:2px solid #ccc; padding:8px;">proximity_cbd</th>
+                        <th style="border:2px solid #ccc; padding:8px;">proximity_bus</th>
+                        <th style="border:2px solid #ccc; padding:8px;">proximity_schools</th>
+                        <th style="border:2px solid #ccc; padding:8px;">housing_typology</th>
+                        <th style="border:2px solid #ccc; padding:8px;">land_value_grading</th>
+                        <th style="border:2px solid #ccc; padding:8px;">road_type</th>
+                        <th style="border:2px solid #ccc; padding:8px;">construction_material</th>
+                        <th style="border:2px solid #ccc; padding:8px;">Predicted Price</th>
+                       
+                    </tr>
+                    {% for item in predictions %}
+
+
+
+
+
+
+
+                        <tr>
+                            <td style="border:2px solid #ccc; padding:8px;">{{ item.created_at }}</td>
+                            <td style="border:2px solid #ccc; padding:8px;">{{ item.rooms }}</td>
+                            <td style="border:2px solid #ccc; padding:8px;">{{ item.site_area }}</td>
+                            <td style="border:2px solid #ccc; padding:8px;">{{ item.built_area }}</td>
+                            <td style="border:2px solid #ccc; padding:8px;">{{ item.property_years }}</td>
+                            <td style="border:2px solid #ccc; padding:8px;">{{ item.proximity_cbd }}</td>
+                            <td style="border:2px solid #ccc; padding:8px;">{{ item.proximity_bus }}</td>
+                            <td style="border:2px solid #ccc; padding:8px;">{{ item.proximity_schools }}</td>
+                            <td style="border:2px solid #ccc; padding:8px;">{{ item.housing_typology }}</td>
+                            <td style="border:2px solid #ccc; padding:8px;">{{ item.land_value_grading }}</td>
+                            <td style="border:2px solid #ccc; padding:8px;">{{ item.road_type }}</td>
+                            <td style="border:2px solid #ccc; padding:8px;">{{ item.construction_material }}</td>
+                            <td style="border:2px solid #ccc; padding:8px;">${{ "%.2f"|format(item.predicted_price) }}</td>
+                        </tr>
+                    {% endfor %}
+                </table>
+            {% else %}
+                <p>No predictions have been saved yet.</p>
+            {% endif %}
+            <a class="anchor" href="/">Make another prediction</a>
+        </div>
+    </body>
+</html>

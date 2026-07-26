@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+        <link rel="stylesheet" href ="{{ url_for('static',filename='result.css') }}">
+
+    <title>House price prediction</title>
+</head>
+
+<body>
+<div class="form-container">
+<h1>House price prediction Result</h1>
+
+
+ <h2>Prediction</h2>
+
+
+<h3>${{ predicted_price }}</h3>
+
+
+
+<a class="anchor" href="/">Check Another House</a>
+<a class="anchor" href="/history" style="margin-top:10px;">View Prediction History</a>
+</div>
+</body>
+</html>
