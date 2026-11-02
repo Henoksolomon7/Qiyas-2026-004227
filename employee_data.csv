@@ -1,0 +1,204 @@
+employee_id,name,gender,age,department,position,branch,city,salary,years_experience,performance_score,joining_date,status,email
+1001,Meron Tadesse,FEMALE,23.0,it,Team Lead,Addis Ababa,Adama,26024.0,18,65.0,25/07/2016,Inactive,meron.tadesse@qiyas.com
+1002,Abel Bekele,Male,27.0,Operations,Senior Officer,Dire Dawa,Dire Dawa,22328.0,13,64.0,10-01-2021,active,abel.bekele@qiyas.com
+1003,Bethel Tesfaye,MALE,22.0,Information Technology,Senior Officer,Hawassa,Bahir Dar,18463.0,3,94.0,2018-10-25,Active,bethel.tesfaye@qiyas.com
+1004,Samuel Tadesse,Male,44.0,Sales,Team Lead,Addis Ababa,Hawassa,30541.0,12,88.0,19/01/2024,Active,samuel.tadesse@qiyas.com
+1005,Yonas Tesfaye,FEMALE,,Info Tech,Analyst,Addis Ababa,Addis Ababa,45837.0,7,62.0,07-07-2015,Active,yonas.tesfaye@qiyas.com
+1006,Samuel Tesfaye,MALE,51.0,Info Tech,Analyst,Addis Ababa,Adama,49660.0,19,73.0,2019-02-25,active,samuel.tesfaye@qiyas.com
+1007,Yonas Abebe,FEMALE,32.0,Operations,Senior Officer,Hawassa,Hawassa,38294.0,1,74.0,18/05/2025,active,yonas.abebe@qiyas.com
+1008,Liya Bekele,female,42.0,HR,Senior Officer,Bahir Dar,Addis Ababa,34290.0,12,,05-14-2017,Inactive,liya.bekele@qiyas.com
+1009,Marta Tesfaye,MALE,30.0,Marketing,Team Lead,Bahir Dar,Dire Dawa,24162.0,11,97.0,2021-01-16,active,marta.tesfaye@qiyas.com
+1010,Marta Assefa,male,27.0,Marketing,Team Lead,Addis Ababa,Adama,11087.0,12,57.0,14/01/2022,Inactive,marta.assefa@qiyas.com
+1011,Ruth Assefa,FEMALE,55.0,it,Team Lead,Hawassa,Addis Ababa,24476.0,20,85.0,08-18-2022,ACTIVE,ruth.assefa@qiyas.com
+1012,Sara Tesfaye,FEMALE,49.0,Finance,Team Lead,Adama,,18365.0,16,79.0,2025-09-11,Active,sara.tesfaye@qiyas.com
+1013,Liya Tesfaye,male,54.0,Operations,Team Lead,Addis Ababa,Adama,47909.0,19,62.0,12/03/2019,ACTIVE,liya.tesfaye@qiyas.com
+1014,Bethel Bekele,male,29.0,it,Junior Officer,Bahir Dar,Adama,31788.0,2,69.0,08-26-2015,active,bethel.bekele@qiyas.com
+1015,Marta Assefa,female,-20.0,Marketing,Senior Officer,Dire Dawa,Dire Dawa,18821.0,6,66.0,2024-10-13,ACTIVE,marta.assefa@qiyas.com
+1016,Samuel Hailu,male,50.0,it,Analyst,Addis Ababa,Addis Ababa,41919.0,18,78.0,12/10/2017,active,samuel.hailu@qiyas.com
+1017,Ruth Abebe,Male,22.0,IT,Analyst,Addis Ababa,Addis Ababa,,16,95.0,07-26-2017,active,ruth.abebe@qiyas.com
+1018,Nahom Assefa,Female,35.0,Info Tech,Manager,Bahir Dar,Dire Dawa,43339.0,6,58.0,2021-06-18,Active,nahom.assefa@qiyas.com
+1019,Sara Kebede,FEMALE,44.0,IT,Junior Officer,Addis Ababa,Bahir Dar,35759.0,12,76.0,08/09/2024,ACTIVE,sara.kebede@qiyas.com
+1020,Eden Tadesse,male,37.0,Marketing,Senior Officer,Hawassa,Dire Dawa,20556.0,14,62.0,01-12-2020,active,eden.tadesse@qiyas.com
+1021,Liya Tadesse,female,50.0,IT,Junior Officer,Adama,Addis Ababa,44066.0,5,56.0,2022-04-25,Inactive,liya.tadesse@qiyas.com
+1022,Bethel Assefa,Male,35.0,Marketing,Analyst,Bahir Dar,Adama,34282.0,9,53.0,02/04/2019,Inactive,bethel.assefa@qiyas.com
+1023,Biruk Assefa,Male,31.0,Operations,Junior Officer,Hawassa,Adama,20445.0,1,68.0,11-11-2025,Active,biruk.assefa@qiyas.com
+1024,Ruth Assefa,female,54.0,it,Senior Officer,Addis Ababa,Addis Ababa,42807.0,19,60.0,2025-10-10,Active,ruth.assefa@qiyas.com
+1025,Meron Abebe,female,47.0,IT,Team Lead,Addis Ababa,Adama,-5000.0,13,86.0,29/06/2021,ACTIVE,meron.abebe@qiyas.com
+1026,Henok Tesfaye,male,35.0,Finance,Manager,Hawassa,Hawassa,28590.0,2,65.0,06-10-2019,Active,henok.tesfaye@qiyas.com
+1027,Bethel Tadesse,male,26.0,HR,Junior Officer,Adama,Dire Dawa,43234.0,11,63.0,2017-12-22,ACTIVE,bethel.tadesse@qiyas.com
+1028,Marta Assefa,FEMALE,56.0,Operations,Analyst,Addis Ababa,Dire Dawa,27825.0,4,89.0,02/02/2015,ACTIVE,marta.assefa@qiyas.com
+1029,Sara Tadesse,male,57.0,HR,Senior Officer,Hawassa,Hawassa,18187.0,16,67.0,10-13-2021,Inactive,sara.tadesse@qiyas.com
+1030,Nahom Bekele,Male,27.0,HR,Senior Officer,Hawassa,Hawassa,49568.0,5,77.0,2015-06-30,Inactive,nahom.bekele@qiyas.com
+1031,Yonas Kebede,FEMALE,57.0,Information Technology,Team Lead,Addis Ababa,Addis Ababa,8633.0,11,57.0,06/08/2025,active,yonas.kebede@qiyas.com
+1032,Samuel Alemu,MALE,24.0,Info Tech,Senior Officer,Addis Ababa,Addis Ababa,28202.0,11,73.0,01-29-2025,Inactive,samuel.alemu@qiyas.com
+1033,Ruth Alemu,male,37.0,HR,Manager,Adama,Bahir Dar,18649.0,8,61.0,2015-04-12,active, ruth.alemu@qiyas.com 
+1034,Eden Tadesse,Female,46.0,HR,Analyst,Adama,Adama,10537.0,7,80.0,28/03/2017,Active,eden.tadesse@qiyas.com
+1035,Meron Abebe,MALE,47.0,HR,Team Lead,Bahir Dar,Addis Ababa,29512.0,17,67.0,11-04-2025,ACTIVE,meron.abebe@qiyas.com
+1036,Abel Tadesse,Male,38.0,Marketing,Analyst,Hawassa,,19702.0,13,87.0,2015-06-06,Active,abel.tadesse@qiyas.com
+1037,Samuel Abebe,female,38.0,Operations,Senior Officer,Hawassa,Bahir Dar,10908.0,13,95.0,07/01/2015,Active,samuel.abebe@qiyas.com
+1038,Meron Hailu,MALE,42.0,Marketing,Analyst,Bahir Dar,Hawassa,16167.0,9,96.0,09-08-2020,active,meron.hailu@qiyas.com
+1039,John Kebede,Female,46.0,Operations,Junior Officer,Hawassa,Dire Dawa,19405.0,9,89.0,2018-05-17,active,john.kebede@qiyas.com
+1040,Samuel Hailu,Female,51.0,Information Technology,Junior Officer,Hawassa,Adama,36952.0,16,78.0,24/09/2020,ACTIVE,samuel.hailu@qiyas.com
+1041,Sara Abebe,Male,41.0,Info Tech,Manager,Dire Dawa,Adama,22722.0,2,62.0,04-11-2015,Inactive,sara.abebe@qiyas.com
+1042,Samuel Abebe,FEMALE,46.0,IT,Junior Officer,Bahir Dar,Adama,40399.0,7,75.0,2016-08-27,active,samuel.abebe@qiyas.com
+1043,Eden Assefa,male,25.0,Sales,Team Lead,Dire Dawa,Addis Ababa,44530.0,19,65.0,13/02/2020,ACTIVE,eden.assefa@qiyas.com
+1044,Eden Assefa,male,54.0,Sales,Manager,Hawassa,Bahir Dar,35966.0,7,120.0,01-22-2025,ACTIVE,eden.assefa@qiyas.com
+1045,Eden Assefa,MALE,37.0,Info Tech,Analyst,Hawassa,Addis Ababa,25996.0,10,78.0,2023-01-01,Active,eden.assefa@qiyas.com
+1046,Marta Alemu,male,36.0,it,Manager,Bahir Dar,Adama,33102.0,10,94.0,03/12/2022,Inactive,marta.alemu@qiyas.com
+1047,Samuel Bekele,FEMALE,35.0,IT,Team Lead,Bahir Dar,Dire Dawa,35534.0,15,74.0,08-11-2025,Active,samuel.bekele@qiyas.com
+1048,Helen Tesfaye,female,46.0,Info Tech,Manager,Adama,Dire Dawa,35460.0,8,84.0,2023-12-21,Inactive,helen.tesfaye@qiyas.com
+1049,Bethel Bekele,male,46.0,Sales,Senior Officer,Dire Dawa,Bahir Dar,30028.0,17,92.0,14/02/2023,Active,bethel.bekele@qiyas.com
+1050,Henok Kebede,FEMALE,59.0,Marketing,Senior Officer,Bahir Dar,Addis Ababa,44987.0,5,,12-10-2015,Active,henok.kebede@qiyas.com
+1051,Nahom Kebede,Female,42.0,Finance,Manager,Hawassa,Hawassa,21871.0,2,79.0,2018-10-14,Inactive,nahom.kebede@qiyas.com
+1052,Abel Bekele,FEMALE,44.0,IT,Junior Officer,Adama,Addis Ababa,22694.0,6,91.0,05/10/2023,Active,abel.bekele@qiyas.com
+1053,Ruth Alemu,male,37.0,Sales,Analyst,Hawassa,Addis Ababa,16272.0,5,80.0,04-29-2021,Active,ruth.alemu@qiyas.com
+1054,Eden Alemu,MALE,41.0,Marketing,Manager,Adama,Addis Ababa,15084.0,2,87.0,2025-06-01,active,eden.alemu@qiyas.com
+1055,Sara Tesfaye,Male,60.0,HR,Team Lead,Bahir Dar,Dire Dawa,15933.0,11,100.0,11/10/2023,Active,sara.tesfaye@qiyas.com
+1056,Yonas Hailu,MALE,22.0,Sales,Senior Officer,Bahir Dar,Addis Ababa,35528.0,5,81.0,11-11-2019,ACTIVE,yonas.hailu@qiyas.com
+1057,Ruth Assefa,MALE,51.0,Info Tech,Junior Officer,Hawassa,Dire Dawa,36545.0,14,96.0,2018-01-04,active,ruth.assefa@qiyas.com
+1058,Eden Assefa,Male,58.0,Sales,Analyst,Adama,Bahir Dar,47998.0,15,92.0,09/10/2018,active,eden.assefa@qiyas.com
+1059,Helen Tesfaye,Male,43.0,Operations,Senior Officer,Addis Ababa,Hawassa,26327.0,7,88.0,03-26-2021,Inactive,helen.tesfaye@qiyas.com
+1060,Bethel Abebe,MALE,-20.0,Info Tech,Manager,Adama,Addis Ababa,40166.0,9,78.0,2016-01-17,ACTIVE,bethel.abebe@qiyas.com
+1061,Bethel Hailu,Female,49.0,Finance,Analyst,Hawassa,Hawassa,44070.0,7,71.0,18/11/2022,Active,bethel.hailu@qiyas.com
+1062,Biruk Abebe,FEMALE,42.0,Information Technology,Senior Officer,Adama,Dire Dawa,15835.0,15,97.0,08-30-2025,ACTIVE,biruk.abebe@qiyas.com
+1063,Biruk Tesfaye,male,28.0,Finance,Junior Officer,Dire Dawa,Adama,20721.0,4,68.0,2019-01-18,ACTIVE,biruk.tesfaye@qiyas.com
+1064,Abel Bekele,Female,57.0,it,Junior Officer,Dire Dawa,Adama,27145.0,9,94.0,25/02/2022,Inactive,abel.bekele@qiyas.com
+1065,Bethel Assefa,Female,43.0,it,Junior Officer,Bahir Dar,Hawassa,20082.0,15,53.0,07-21-2025,Active,bethel.assefa@qiyas.com
+1066,Ruth Bekele,male,31.0,it,Team Lead,Bahir Dar,Hawassa,17777.0,19,86.0,2015-12-15,active,ruth.bekele@qiyas.com
+1067,Eden Kebede,MALE,50.0,IT,Team Lead,Addis Ababa,Dire Dawa,37014.0,6,69.0,23/10/2019,active,eden.kebede@qiyas.com
+1068,Nahom Tadesse,male,32.0,IT,Manager,Bahir Dar,Dire Dawa,23719.0,19,61.0,11-04-2015,Inactive,nahom.tadesse@qiyas.com
+1069,Nahom Bekele,Female,36.0,it,Senior Officer,Hawassa,Hawassa,26881.0,20,95.0,2022-11-19,active,nahom.bekele@qiyas.com
+1070,Samuel Tadesse,MALE,56.0,Information Technology,Junior Officer,Addis Ababa,Adama,250000.0,5,91.0,09/03/2025,ACTIVE,samuel.tadesse@qiyas.com
+1071,Ruth Tesfaye,Female,50.0,Finance,Team Lead,Dire Dawa,Hawassa,16149.0,15,79.0,11-06-2022,Inactive,ruth.tesfaye@qiyas.com
+1072,Sara Bekele,Male,49.0,Info Tech,Team Lead,Dire Dawa,Hawassa,29123.0,0,88.0,2015-04-16,ACTIVE,sara.bekele@qiyas.com
+1073,Ruth Bekele,MALE,33.0,Information Technology,Team Lead,Bahir Dar,Bahir Dar,38834.0,20,83.0,10/04/2025,Inactive,ruth.bekele@qiyas.com
+1074,Sara Assefa,Male,44.0,Information Technology,Analyst,Bahir Dar,Hawassa,34761.0,15,71.0,07-07-2022,ACTIVE,sara.assefa@qiyas.com
+1075,Meron Kebede,MALE,57.0,HR,Junior Officer,Bahir Dar,Addis Ababa,10404.0,16,79.0,2018-07-12,Active,meron.kebede@qiyas.com
+1076,Meron Assefa,female,48.0,Sales,Manager,Addis Ababa,Dire Dawa,11552.0,6,62.0,21/01/2019,ACTIVE,meron.assefa@qiyas.com
+1077,Yonas Alemu,Male,40.0,Info Tech,Senior Officer,Hawassa,Bahir Dar,36712.0,17,94.0,05-12-2016,Active, yonas.alemu@qiyas.com 
+1078,Yonas Kebede,Male,27.0,Information Technology,Manager,Hawassa,Bahir Dar,22725.0,16,57.0,2025-08-15,ACTIVE,yonas.kebede@qiyas.com
+1079,Samuel Assefa,Female,52.0,Info Tech,Team Lead,Dire Dawa,Dire Dawa,23973.0,4,79.0,15/08/2016,Active,samuel.assefa@qiyas.com
+1080,Nahom Kebede,FEMALE,43.0,Finance,Team Lead,Dire Dawa,Addis Ababa,41275.0,15,67.0,03-04-2018,active,nahom.kebede@qiyas.com
+1081,Bethel Assefa,Female,44.0,HR,Senior Officer,Adama,Dire Dawa,29786.0,18,85.0,2019-03-26,Inactive,bethel.assefa@qiyas.com
+1082,John Kebede,Female,24.0,Marketing,Senior Officer,Bahir Dar,Bahir Dar,28852.0,1,97.0,28/11/2022,active,john.kebede@qiyas.com
+1083,Yonas Hailu,Female,28.0,IT,Senior Officer,Bahir Dar,Dire Dawa,36855.0,20,56.0,03-18-2025,active,yonas.hailu@qiyas.com
+1084,Sara Assefa,Male,38.0,HR,Team Lead,Bahir Dar,Bahir Dar,30187.0,10,89.0,2022-04-15,Inactive,sara.assefa@qiyas.com
+1085,Liya Bekele,FEMALE,26.0,it,Manager,Addis Ababa,Hawassa,23385.0,20,90.0,20/07/2017,Active,liya.bekele@qiyas.com
+1086,Bethel Alemu,Male,41.0,Finance,Analyst,Hawassa,Hawassa,9897.0,13,52.0,12-06-2023,active,bethel.alemu@qiyas.com
+1087,John Kebede,female,58.0,Marketing,Team Lead,Adama,Adama,19800.0,15,60.0,2015-11-20,active,john.kebede@qiyas.com
+1088,John Assefa,Female,38.0,Finance,Team Lead,Adama,Addis Ababa,,2,66.0,29/01/2025,Inactive,john.assefa@qiyas.com
+1089,Helen Tesfaye,Female,49.0,Sales,Junior Officer,Adama,Hawassa,24390.0,12,79.0,03-26-2017,ACTIVE,helen.tesfaye@qiyas.com
+1090,Ruth Tesfaye,Male,150.0,IT,Team Lead,Bahir Dar,Bahir Dar,9437.0,9,92.0,2018-01-29,active,ruth.tesfaye@qiyas.com
+1091,Ruth Hailu,FEMALE,36.0,Information Technology,Junior Officer,Addis Ababa,Dire Dawa,49721.0,9,62.0,23/10/2017,Inactive,ruth.hailu@qiyas.com
+1092,Abel Hailu,Female,30.0,Information Technology,Senior Officer,Adama,Hawassa,13906.0,17,68.0,05-20-2023,ACTIVE,abel.hailu@qiyas.com
+1093,Yonas Tesfaye,MALE,32.0,it,Manager,Addis Ababa,Hawassa,24840.0,4,80.0,2023-05-16,active,yonas.tesfaye@qiyas.com
+1094,Liya Kebede,MALE,57.0,Operations,Junior Officer,Bahir Dar,Bahir Dar,31971.0,11,55.0,27/02/2015,ACTIVE,liya.kebede@qiyas.com
+1095,Ruth Kebede,Male,45.0,Operations,Analyst,Dire Dawa,Adama,15100.0,7,93.0,04-15-2020,Active,ruth.kebede@qiyas.com
+1096,Meron Assefa,Male,41.0,Finance,Manager,Addis Ababa,Adama,34758.0,3,57.0,2015-07-05,active,meron.assefa@qiyas.com
+1097,Henok Alemu,female,46.0,Information Technology,Manager,Addis Ababa,Dire Dawa,37729.0,15,73.0,13/09/2019,Inactive,henok.alemu@qiyas.com
+1098,Nahom Bekele,male,,HR,Junior Officer,Hawassa,Bahir Dar,22238.0,17,78.0,08-29-2025,ACTIVE,nahom.bekele@qiyas.com
+1099,Abel Kebede,FEMALE,39.0,Info Tech,Team Lead,Addis Ababa,Bahir Dar,20439.0,1,57.0,2016-01-11,ACTIVE,abel.kebede@qiyas.com
+1100,John Alemu,female,58.0,Info Tech,Senior Officer,Hawassa,Dire Dawa,21448.0,4,54.0,28/04/2017,Active,john.alemu@qiyas.com
+1101,Nahom Alemu,FEMALE,30.0,IT,Senior Officer,Addis Ababa,Adama,43403.0,11,66.0,03-26-2016,active,nahom.alemu@qiyas.com
+1102,Ruth Hailu,FEMALE,23.0,Marketing,Team Lead,Addis Ababa,Addis Ababa,19419.0,2,66.0,2016-06-03,Inactive,ruth.hailu@qiyas.com
+1103,Bethel Hailu,male,54.0,IT,Team Lead,Hawassa,Bahir Dar,46906.0,14,56.0,25/08/2020,Active,bethel.hailu@qiyas.com
+1104,Abel Assefa,FEMALE,47.0,Sales,Junior Officer,Addis Ababa,Addis Ababa,35936.0,10,93.0,07-01-2020,active,abel.assefa@qiyas.com
+1105,Sara Alemu,FEMALE,39.0,HR,Manager,Dire Dawa,Dire Dawa,48915.0,16,90.0,2021-02-24,ACTIVE,sara.alemu@qiyas.com
+1106,Bethel Kebede,male,28.0,Marketing,Manager,Adama,Dire Dawa,15498.0,13,91.0,31/01/2023,ACTIVE,bethel.kebede@qiyas.com
+1107,Liya Assefa,Female,47.0,HR,Analyst,Hawassa,Addis Ababa,35262.0,4,96.0,07-04-2018,Inactive,liya.assefa@qiyas.com
+1108,Sara Tadesse,FEMALE,27.0,HR,Senior Officer,Dire Dawa,Addis Ababa,14109.0,1,77.0,2023-05-08,ACTIVE,sara.tadesse@qiyas.com
+1109,Meron Tadesse,FEMALE,48.0,IT,Analyst,Dire Dawa,Bahir Dar,31173.0,9,92.0,25/09/2024,ACTIVE,meron.tadesse@qiyas.com
+1110,Sara Abebe,female,31.0,HR,Junior Officer,Hawassa,Addis Ababa,39600.0,18,64.0,12-05-2018,active,sara.abebe@qiyas.com
+1111,Eden Kebede,female,57.0,Finance,Junior Officer,Adama,,48745.0,8,89.0,2015-04-18,ACTIVE,eden.kebede@qiyas.com
+1112,Henok Hailu,FEMALE,44.0,Marketing,Junior Officer,Adama,Adama,8400.0,20,61.0,08/05/2021,Active,henok.hailu@qiyas.com
+1113,Sara Abebe,MALE,46.0,Finance,Analyst,Dire Dawa,Hawassa,35514.0,19,79.0,10-06-2016,Active,sara.abebe@qiyas.com
+1114,Henok Bekele,FEMALE,31.0,it,Analyst,Bahir Dar,Dire Dawa,18316.0,13,98.0,2015-07-23,Inactive,henok.bekele@qiyas.com
+1115,Ruth Assefa,MALE,48.0,Marketing,Junior Officer,Hawassa,Dire Dawa,25902.0,18,63.0,11/04/2016,Inactive,ruth.assefa@qiyas.com
+1116,Yonas Tesfaye,Male,24.0,Info Tech,Analyst,Adama,Dire Dawa,22451.0,4,75.0,08-13-2015,ACTIVE,yonas.tesfaye@qiyas.com
+1117,Nahom Hailu,male,29.0,Marketing,Team Lead,Adama,Bahir Dar,8506.0,16,81.0,2016-12-20,ACTIVE,nahom.hailu@qiyas.com
+1118,Sara Kebede,Male,24.0,HR,Team Lead,Bahir Dar,Bahir Dar,36588.0,18,51.0,01/05/2025,Inactive,sara.kebede@qiyas.com
+1119,Biruk Kebede,MALE,40.0,Information Technology,Team Lead,Bahir Dar,Addis Ababa,15548.0,11,75.0,11-01-2025,Active,biruk.kebede@qiyas.com
+1120,Samuel Tadesse,Male,37.0,Marketing,Analyst,Hawassa,Bahir Dar,36552.0,7,87.0,2020-11-16,ACTIVE,samuel.tadesse@qiyas.com
+1121,Eden Alemu,female,26.0,Info Tech,Analyst,Hawassa,Addis Ababa,41455.0,20,90.0,13/12/2020,active,eden.alemu@qiyas.com
+1122,John Tadesse,male,31.0,it,Senior Officer,Bahir Dar,Adama,24775.0,14,62.0,10-03-2021,Inactive,john.tadesse@qiyas.com
+1123,Meron Hailu,Female,42.0,Finance,Analyst,Dire Dawa,Addis Ababa,17893.0,1,78.0,2020-04-04,ACTIVE,meron.hailu@qiyas.com
+1124,Yonas Tadesse,MALE,41.0,Finance,Junior Officer,Addis Ababa,Addis Ababa,38260.0,19,78.0,22/08/2015,Inactive,yonas.tadesse@qiyas.com
+1125,Bethel Bekele,female,50.0,Sales,Team Lead,Adama,Adama,45464.0,1,91.0,08-09-2018,Inactive,bethel.bekele@qiyas.com
+1126,Sara Hailu,male,27.0,Sales,Manager,Dire Dawa,Adama,41066.0,16,91.0,2015-06-10,active,sara.hailu@qiyas.com
+1127,Helen Hailu,female,40.0,IT,Analyst,Addis Ababa,Hawassa,33389.0,10,76.0,12/08/2022,Active,helen.hailu@qiyas.com
+1128,Yonas Kebede,male,40.0,HR,Junior Officer,Dire Dawa,Dire Dawa,24514.0,4,96.0,10-16-2024,ACTIVE,yonas.kebede@qiyas.com
+1129,Nahom Kebede,female,30.0,Marketing,Analyst,Adama,Addis Ababa,46996.0,16,95.0,2018-06-22,Active,nahom.kebede@qiyas.com
+1130,Meron Kebede,male,54.0,Info Tech,Analyst,Bahir Dar,Hawassa,31712.0,6,51.0,19/06/2018,active,meron.kebede@qiyas.com
+1131,Marta Alemu,female,26.0,Operations,Junior Officer,Hawassa,Addis Ababa,27385.0,19,100.0,09-10-2020,active,marta.alemu@qiyas.com
+1132,Ruth Kebede,male,31.0,Sales,Junior Officer,Bahir Dar,Dire Dawa,18633.0,11,61.0,2024-01-27,active,ruth.kebede@qiyas.com
+1133,Bethel Tesfaye,Female,50.0,Info Tech,Analyst,Dire Dawa,Adama,23335.0,14,84.0,21/06/2018,Inactive,bethel.tesfaye@qiyas.com
+1134,Eden Tesfaye,male,46.0,Info Tech,Team Lead,Adama,Bahir Dar,40958.0,8,83.0,11-01-2025,Active,eden.tesfaye@qiyas.com
+1135,Meron Assefa,Male,45.0,Finance,Junior Officer,Adama,Dire Dawa,44342.0,8,56.0,2024-07-18,Inactive,meron.assefa@qiyas.com
+1136,Henok Alemu,MALE,49.0,IT,Manager,Addis Ababa,Bahir Dar,14010.0,12,64.0,02/12/2024,ACTIVE,henok.alemu@qiyas.com
+1137,John Kebede,Male,27.0,HR,Senior Officer,Adama,Addis Ababa,32570.0,1,64.0,07-29-2018,ACTIVE,john.kebede@qiyas.com
+1138,Henok Assefa,Male,30.0,IT,Analyst,Adama,Dire Dawa,38743.0,4,78.0,2015-01-22,Inactive,henok.assefa@qiyas.com
+1139,Sara Tesfaye,Female,37.0,Sales,Junior Officer,Addis Ababa,Addis Ababa,27736.0,15,57.0,03/09/2017,Active,sara.tesfaye@qiyas.com
+1140,Meron Abebe,MALE,31.0,Info Tech,Team Lead,Bahir Dar,Addis Ababa,27088.0,5,77.0,11-23-2021,Active,meron.abebe@qiyas.com
+1141,Yonas Hailu,female,26.0,Operations,Junior Officer,Bahir Dar,Dire Dawa,42475.0,15,84.0,2023-10-27,Active,yonas.hailu@qiyas.com
+1142,Meron Kebede,Male,45.0,HR,Senior Officer,Addis Ababa,Addis Ababa,24623.0,18,97.0,02/01/2019,ACTIVE,meron.kebede@qiyas.com
+1143,Marta Bekele,FEMALE,44.0,Sales,Manager,Adama,Adama,43783.0,4,71.0,04-24-2024,Active,marta.bekele@qiyas.com
+1144,Biruk Assefa,male,24.0,IT,Analyst,Hawassa,Addis Ababa,27231.0,16,62.0,2023-11-15,Inactive,biruk.assefa@qiyas.com
+1145,Liya Assefa,MALE,38.0,IT,Analyst,Hawassa,Adama,10399.0,3,98.0,17/03/2018,ACTIVE,liya.assefa@qiyas.com
+1146,Samuel Kebede,FEMALE,50.0,Sales,Analyst,Dire Dawa,Adama,33339.0,8,71.0,07-25-2020,Active,samuel.kebede@qiyas.com
+1147,Biruk Kebede,MALE,27.0,HR,Junior Officer,Addis Ababa,Adama,36220.0,10,88.0,2021-02-12,ACTIVE,biruk.kebede@qiyas.com
+1148,Nahom Assefa,Female,60.0,IT,Analyst,Dire Dawa,Bahir Dar,35925.0,13,60.0,10/12/2018,ACTIVE,nahom.assefa@qiyas.com
+1149,Meron Bekele,FEMALE,26.0,Information Technology,Junior Officer,Adama,Hawassa,49780.0,19,75.0,10-02-2020,Inactive,meron.bekele@qiyas.com
+1150,Abel Alemu,Female,26.0,IT,Team Lead,Adama,Hawassa,23466.0,14,99.0,2019-01-23,ACTIVE,abel.alemu@qiyas.com
+1151,Helen Assefa,Female,26.0,HR,Analyst,Adama,Dire Dawa,45612.0,3,58.0,12/02/2019,Active,helen.assefa@qiyas.com
+1152,Biruk Alemu,MALE,53.0,Finance,Manager,Adama,Dire Dawa,41930.0,19,74.0,04-27-2016,ACTIVE,biruk.alemu@qiyas.com
+1153,Biruk Assefa,male,34.0,Sales,Junior Officer,Hawassa,Addis Ababa,16037.0,11,58.0,2020-01-26,Active,biruk.assefa@qiyas.com
+1154,Yonas Tesfaye,MALE,41.0,Operations,Senior Officer,Addis Ababa,Adama,18322.0,6,95.0,25/11/2023,active,yonas.tesfaye@qiyas.com
+1155,John Assefa,Female,23.0,Operations,Senior Officer,Dire Dawa,Dire Dawa,31651.0,2,85.0,02-20-2019,Active,john.assefa@qiyas.com
+1156,Nahom Kebede,female,52.0,it,Senior Officer,Hawassa,Bahir Dar,42451.0,20,76.0,2024-03-26,Active,nahom.kebede@qiyas.com
+1157,Bethel Assefa,female,55.0,Information Technology,Senior Officer,Bahir Dar,Dire Dawa,30578.0,16,58.0,05/03/2022,Active,bethel.assefa@qiyas.com
+1158,Liya Tadesse,MALE,55.0,Info Tech,Analyst,Dire Dawa,Adama,18028.0,9,69.0,10-25-2016,Active,liya.tadesse@qiyas.com
+1159,Nahom Abebe,female,57.0,it,Team Lead,Adama,Hawassa,25986.0,18,58.0,2021-11-21,active,nahom.abebe@qiyas.com
+1160,Marta Hailu,FEMALE,58.0,Finance,Senior Officer,Dire Dawa,Addis Ababa,10699.0,13,51.0,06/07/2015,Active,marta.hailu@qiyas.com
+1161,Bethel Tesfaye,Female,41.0,it,Junior Officer,Adama,Bahir Dar,39650.0,14,65.0,05-03-2018,Inactive,bethel.tesfaye@qiyas.com
+1162,Bethel Assefa,FEMALE,35.0,HR,Analyst,Bahir Dar,Adama,30294.0,4,88.0,2018-07-04,ACTIVE,bethel.assefa@qiyas.com
+1163,Yonas Tadesse,Female,42.0,Info Tech,Senior Officer,Addis Ababa,Addis Ababa,23842.0,1,79.0,31/12/2017,ACTIVE,yonas.tadesse@qiyas.com
+1164,Samuel Kebede,MALE,37.0,Info Tech,Senior Officer,Bahir Dar,Dire Dawa,18466.0,16,70.0,02-01-2023,Inactive,samuel.kebede@qiyas.com
+1165,Bethel Tesfaye,Female,53.0,Info Tech,Senior Officer,Dire Dawa,Bahir Dar,9518.0,11,55.0,2020-09-01,Active,bethel.tesfaye@qiyas.com
+1166,Abel Tesfaye,female,53.0,IT,Junior Officer,Bahir Dar,Bahir Dar,47158.0,4,91.0,16/03/2018,ACTIVE,abel.tesfaye@qiyas.com
+1167,Biruk Hailu,female,47.0,Operations,Senior Officer,Hawassa,Bahir Dar,31982.0,17,52.0,07-29-2015,ACTIVE,biruk.hailu@qiyas.com
+1168,Sara Kebede,female,54.0,it,Senior Officer,Addis Ababa,Dire Dawa,37514.0,12,98.0,2018-02-19,ACTIVE,sara.kebede@qiyas.com
+1169,Eden Hailu,female,57.0,Operations,Manager,Dire Dawa,Adama,31960.0,1,98.0,26/03/2017,Active,eden.hailu@qiyas.com
+1170,Abel Alemu,female,43.0,Operations,Senior Officer,Hawassa,Bahir Dar,39047.0,19,83.0,09-02-2016,ACTIVE,abel.alemu@qiyas.com
+1171,Marta Kebede,female,41.0,Operations,Manager,Dire Dawa,Dire Dawa,46910.0,9,71.0,2024-04-15,Inactive,marta.kebede@qiyas.com
+1172,Liya Bekele,female,45.0,Finance,Junior Officer,Dire Dawa,Addis Ababa,29708.0,15,93.0,03/09/2019,ACTIVE,liya.bekele@qiyas.com
+1173,Meron Abebe,FEMALE,25.0,Marketing,Senior Officer,Adama,Adama,46241.0,1,80.0,11-17-2020,Active,meron.abebe@qiyas.com
+1174,John Bekele,FEMALE,50.0,Info Tech,Manager,Dire Dawa,Adama,28558.0,19,76.0,2019-08-19,Inactive,john.bekele@qiyas.com
+1175,Liya Bekele,FEMALE,30.0,Sales,Team Lead,Bahir Dar,Dire Dawa,41992.0,10,63.0,24/08/2018,active,liya.bekele@qiyas.com
+1176,Bethel Hailu,Female,56.0,Info Tech,Senior Officer,Hawassa,Hawassa,31218.0,17,93.0,11-03-2021,ACTIVE,bethel.hailu@qiyas.com
+1177,John Tesfaye,Female,40.0,HR,Team Lead,Hawassa,Bahir Dar,21584.0,9,94.0,2018-07-22,Active,john.tesfaye@qiyas.com
+1178,Ruth Kebede,Male,47.0,Finance,Junior Officer,Hawassa,Adama,30618.0,14,99.0,04/04/2018,ACTIVE,ruth.kebede@qiyas.com
+1179,Biruk Assefa,female,35.0,Finance,Senior Officer,Addis Ababa,Hawassa,21242.0,19,84.0,06-18-2025,active,biruk.assefa@qiyas.com
+1180,John Bekele,Male,55.0,Marketing,Analyst,Bahir Dar,Adama,250000.0,3,90.0,2015-08-04,active,john.bekele@qiyas.com
+1181,Abel Alemu,MALE,48.0,HR,Analyst,Addis Ababa,Adama,39175.0,2,80.0,24/06/2023,active,abel.alemu@qiyas.com
+1182,Yonas Bekele,Female,33.0,Sales,Senior Officer,Hawassa,Addis Ababa,35386.0,1,61.0,05-18-2024,Active,yonas.bekele@qiyas.com
+1183,Nahom Tadesse,Female,43.0,Information Technology,Team Lead,Bahir Dar,Dire Dawa,26649.0,8,79.0,2020-11-17,active,nahom.tadesse@qiyas.com
+1184,Eden Tadesse,MALE,43.0,Information Technology,Junior Officer,Hawassa,Bahir Dar,18649.0,9,96.0,09/04/2022,active,eden.tadesse@qiyas.com
+1185,Marta Kebede,FEMALE,49.0,it,Senior Officer,Adama,Addis Ababa,41769.0,15,70.0,06-30-2019,ACTIVE,marta.kebede@qiyas.com
+1186,Henok Abebe,MALE,22.0,HR,Analyst,Dire Dawa,Adama,25090.0,18,74.0,2020-01-04,Active,henok.abebe@qiyas.com
+1187,Nahom Hailu,MALE,37.0,Information Technology,Manager,Dire Dawa,Addis Ababa,12071.0,9,92.0,21/03/2020,Active,nahom.hailu@qiyas.com
+1188,Meron Tesfaye,male,45.0,Sales,Senior Officer,Bahir Dar,Adama,48280.0,19,64.0,09-26-2025,ACTIVE,meron.tesfaye@qiyas.com
+1189,Samuel Assefa,female,56.0,it,Team Lead,Bahir Dar,Adama,22313.0,16,98.0,2022-08-18,ACTIVE,samuel.assefa@qiyas.com
+1190,Sara Tadesse,female,25.0,Information Technology,Senior Officer,Hawassa,Adama,43890.0,16,82.0,03/06/2021,Inactive,sara.tadesse@qiyas.com
+1191,Sara Abebe,Male,59.0,Sales,Senior Officer,Dire Dawa,Dire Dawa,40035.0,13,55.0,12-30-2019,Inactive,sara.abebe@qiyas.com
+1192,Ruth Bekele,Male,57.0,Marketing,Analyst,Addis Ababa,Hawassa,38302.0,6,93.0,2023-02-10,Active,ruth.bekele@qiyas.com
+1193,Abel Kebede,Male,44.0,Sales,Junior Officer,Hawassa,Addis Ababa,12178.0,13,84.0,25/06/2025,active,abel.kebede@qiyas.com
+1194,Eden Alemu,Female,48.0,Marketing,Junior Officer,Dire Dawa,Bahir Dar,32540.0,4,74.0,10-01-2024,ACTIVE,eden.alemu@qiyas.com
+1195,Sara Alemu,male,56.0,IT,Junior Officer,Hawassa,Adama,33759.0,14,83.0,2023-03-01,Inactive,sara.alemu@qiyas.com
+1196,Yonas Kebede,MALE,36.0,Info Tech,Junior Officer,Addis Ababa,Hawassa,24220.0,13,79.0,27/09/2016,Active,yonas.kebede@qiyas.com
+1197,John Abebe,female,26.0,IT,Senior Officer,Addis Ababa,Addis Ababa,14612.0,12,88.0,01-03-2020,Inactive,john.abebe@qiyas.com
+1198,John Abebe,FEMALE,25.0,HR,Team Lead,Dire Dawa,Hawassa,17183.0,10,82.0,2017-08-17,active,john.abebe@qiyas.com
+1199,Nahom Alemu,Male,55.0,Operations,Team Lead,Adama,Hawassa,22486.0,20,76.0,01/02/2018,Inactive,nahom.alemu@qiyas.com
+1200,Yonas Assefa,female,25.0,HR,Manager,Bahir Dar,Bahir Dar,30571.0,4,91.0,10-24-2023,ACTIVE,yonas.assefa@qiyas.com
+1021,Liya Tadesse,female,50.0,IT,Junior Officer,Adama,Addis Ababa,44066.0,5,56.0,2022-04-25,Inactive,liya.tadesse@qiyas.com
+1076,Meron Assefa,female,48.0,Sales,Manager,Addis Ababa,Dire Dawa,11552.0,6,62.0,21/01/2019,ACTIVE,meron.assefa@qiyas.com
+1121,Eden Alemu,female,26.0,Info Tech,Analyst,Hawassa,Addis Ababa,41455.0,20,90.0,13/12/2020,active,eden.alemu@qiyas.com

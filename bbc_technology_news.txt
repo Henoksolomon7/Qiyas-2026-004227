@@ -1,0 +1,243 @@
+language,date,category,title,article_summary,source_url
+Amharic,"OnJun 17, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ሰኔ 10፣ 2018 (ኤፍ ኤም ሲ) በአማራ ክልል እየተከናወነ በሚገኛው የኮሪደር ልማት ፕሮጀክት እስካሁን ባለው ጊዜ ውስጥ ከ180 ሺህ በላይ ለሚሆኑ ዜጎች የሥራ ዕድል ተፈጥሯል።</p>
+<p>በ2018 በጀት ዓመት ክልሉን ዘመናዊና ለኑሮ ተስማሚ ለማድረግ የታቀዱ የኮሪደር ልማት ሥራዎች በ7 ሪጂኦፖሊታን የከተማ አስተዳደሮች እና ከ35 በላይ በሚሆኑ መካከለኛና አነስተኛ ከተሞች ላይ በከፍተኛ ፍጥነትና ስኬት እየተከናወኑ ይገኛሉ።</p>
+<p>በመሠረተ ልማት ዘርፍ በበጀት ዓመቱ ከ204 ኪሎ ሜትር በላይ መንገድ ለመሥራት ታቅዶ እስካሁን 137 ኪሎ ሜትር በላይ የሚረዝም መንገድ ማጠናቀቅ መቻሉን የክልሉ ከተማና መሠረተ ልማት ቢሮ መረጃ አመልክቷል፡፡</p>
+<p>በዚህም ከተከናወኑት የሥራ ክፍሎች መካከል 18 ኪሎ ሜትር የአስፋልት ንጣፍ መንገድ፣ 64 ኪሎ ሜትር የእግረኛ መንገድ እንዲሁም ከ54 ኪሎ ሜትር በላይ የሳይክል መስመር ግንባታ ይገኙበታል።</p>
+<p>የከተሞችን ገጽታ ለመቀየርና ማራኪ ለማድረግ በውበት ሥራ ከተያዘው 129 ሄክታር በላይ መሬት ውስጥ በአሁኑ ወቅት ከ104 ሄክታር በላይ የሚሆነውን ማልማት የተቻለ ሲሆን÷ ከዚህ ውስጥ የመንገድ ዳር አረንጓዴ ልማትንና የመናፈሻ ቦታዎችን ጨምሮ ከ54 ሄክታር በላይ መሬት ለምቷል።</p>
+<p>እንዲሁም 12 የሕዝብ መጸዳጃ ቤቶች፣ 20 የውኃ ፋውንቴን፣ 5 የአደባባይ ማስዋብ፣ 5 የልጆች መጫወቻ ቦታዎች፣ 8 የስፖርት ማዘውተሪያዎች እና 299 መለስተኛ ካፌዎች ተገንብተው ለአገልግሎት ዝግጁ ሆነዋል።</p>
+<p>ከተሞቹን ይበልጥ ዘመናዊና ደህንነታቸው የተጠበቀ ለማድረግ 6 የኤሌክትሪክ መኪና ቻርጅ ማድረጊያ ጣቢያዎች የተገነቡ ሲሆን÷ የስማርት ፖል ተከላ፣ የደህንነት ካሜራዎች ገጠማ እንዲሁም የመከላከያ ግንብና የጎርፍ መፍሰሻ ቦዮች ግንባታ በተሳካ ሁኔታ ተከናውኗል።</p>
+<p>ለፕሮጀክቶቹ ማስፈጸሚያ እስካሁን ከ7 ነጥብ 6 ቢሊየን ብር በላይ ወጪ የተደረገ ሲሆን ÷ለዚህም ከመንግሥት በጀት ከ5 ቢሊየን ብር በላይ ወጪ ሲደረግ ቀሪው ከ2 ቢሊየን ብር በላይ በማኅበረሰብ ተሳትፎ የተሸፈነ መሆኑ ተጠቅሷል፡፡</p>
+<p>ይህ በክልሉ እየተገበረ የሚገኘው የኮሪደር ልማት የከተሞችን ገጽታ ከመቀየርና ለነዋሪዎች ምቹ ከማድረግ ባለፈ ከ180 ሺህ በላይ ለሚሆኑ ዜጎች ሰፊ የሥራ ዕድል በመፍጠር የሕዝቡን ተጠቃሚነት ማረጋገጥ የቻለ ታላቅ የልማት ምዕራፍ መሆኑ ተመልክቷል፡፡</p>
+<p>በከድር መሀመድ</p>
+</div>]",https://www.fanamc.com/archives/316930#respond
+Amharic,"OnJun 3, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ግንቦት 26፣ 2018 (ኤፍ ኤም ሲ) የኢትዮጵያ ኤሌክትሪክ አገልግሎት ቶውት ሊደር አፍሪካ ከተሰኘ የኖርዌይ ቴክኖሎጂ ኤጀንሲ ጋር በኤሌክትሪክ ተሽከርካሪዎች አጠቃቀም ላይ በትብብር ለመስራት የመግባቢያ ሰነድ ተፈራርሟል፡፡</p>
+<p>ስምምነቱ የኤሌክትሪክ ተሽከርካሪዎችን በስፋት ለማስተዋወቅና ዘመናዊ የኃይል አጠቃቀምን ለማሳደግ ያለመ መሆኑ ተመላክቷል፡፡</p>
+<p>ለልምድ እና የቴክኖሎጂ ሽግግር እንዲሁም በኤሌክትሪክ ተሽከርካሪዎች ቴክኖሎጂ አጠቃቀም ረጅም ዓመታት የበለጸገ ልምድ ያላትን የኖርዌይን ተሞክሮ ወደ ኢትዮጵያ ለማምጣት እንደሚያስችልም ተጠቅሷል፡፡</p>
+<p>ይህም ለአምራችና ለአገልግሎት ሰጪ ተቋማት አቅም ግንባታ ከፍተኛ አስተዋጽኦ እንደሚያበረክት ነው የተገለጸው፡፡</p>
+<p>ስምምነቱ በሀገር አቀፍ ደረጃ የኤሌክትሪክ መኪና መሙያ መሠረተ ልማቶችን ለመዘርጋትና ዘመናዊ የቴክኖሎጂ አጠቃቀምን ለማስፈን ለተጀመረው ስትራቴጂካዊ ጉዞ ትልቅ አጋዥ እንደሚሆን መገለጹን አገልግሎቱ ለፋና ዲጂታል የላከው መረጃ ያመላክታል፡፡</p>
+<p>በፊርማ ሥነ ሥርዓቱ ላይ የኢትዮጵያ ኤሌክትሪክ አገልግሎት ዋና ሥራ አስፈጻሚው ጌቱ ገረመው (ኢ/ር)፣ በኢትዮጵያ የኖርዌይ አምባሳደር ስቴይን ክሪስቴንሰን እና ሌሎች ከፍተኛ የሥራ ኃላፊዎች ተገኝተዋል።</p>
+</div>]",https://www.fanamc.com/archives/316225
+Amharic,"OnJun 18, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ሰኔ 11፣ 2018 (ኤፍ ኤም ሲ) የፌደራል ዋና ኦዲተር መስሪያ ቤት በ2018 በጀት ዓመት 163 ተቋማትን ኦዲት አድርጌያለሁ አለ፡፡</p>
+<p>6ኛው የሕዝብ ተወካዮች ም/ቤት በ5ኛ ዓመት የሥራ ዘመን 26ኛ መደበኛ ጉባዔው የተቋሙን ሪፖርት አድምጧል፡፡</p>
+<p>በዚህም መስሪያ ቤቱ ዓመታዊ የመንግሥት ባለበጀት ተቋማትን ሒሳብ የፋይናንሻል፣ የሕጋዊነት እና የክዋኔ ኦዲት ሪፖርቱን ለሕዝብ ተወካዮች ምክር ቤት አቅርቧል፡፡</p>
+<p>የፌደራል ዋና ኦዲተር ዋና ኦዲተር መሰረት ዳምጤ በዚህ ወቅት÷ በበጀት ዓመቱ 163 ተቋማትን ኦዲት በማድረግ እቅዱን ሙሉ በሙሉ ማሳካት መቻሉን አስረድተዋል፡፡</p>
+<p>በመንግሥት ተቋማት የበጀት አጠቃቀም ላይ የኤሌክትሮኒክስ ክፍያ አሰራር የመተግበር ሒደት ለኦዲት ሥራው አጋዥ እንደነበር አመላክተዋል።</p>
+<p>በተለያዩ ተቋማት አሁንም የበጀት አጠቃቀም ክፍተት መኖሩን ጠቁመው÷ በየተቋማቱ የታዩ የኦዲት ግኝቶችን ለምክር ቤቱ በዝርዝር አቅርበዋል።</p>
+<p>በአሸናፊ ሽብሩ</p>
+</div>]",https://www.fanamc.com/archives/317027
+Amharic,"OnJun 18, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ሰኔ 11፣ 2018 (ኤፍ ኤም ሲ) የፌደራል ዋና ኦዲተር መስሪያ ቤት በ2018 በጀት ዓመት 163 ተቋማትን ኦዲት አድርጌያለሁ አለ፡፡</p>
+<p>6ኛው የሕዝብ ተወካዮች ም/ቤት በ5ኛ ዓመት የሥራ ዘመን 26ኛ መደበኛ ጉባዔው የተቋሙን ሪፖርት አድምጧል፡፡</p>
+<p>በዚህም መስሪያ ቤቱ ዓመታዊ የመንግሥት ባለበጀት ተቋማትን ሒሳብ የፋይናንሻል፣ የሕጋዊነት እና የክዋኔ ኦዲት ሪፖርቱን ለሕዝብ ተወካዮች ምክር ቤት አቅርቧል፡፡</p>
+<p>የፌደራል ዋና ኦዲተር ዋና ኦዲተር መሰረት ዳምጤ በዚህ ወቅት÷ በበጀት ዓመቱ 163 ተቋማትን ኦዲት በማድረግ እቅዱን ሙሉ በሙሉ ማሳካት መቻሉን አስረድተዋል፡፡</p>
+<p>በመንግሥት ተቋማት የበጀት አጠቃቀም ላይ የኤሌክትሮኒክስ ክፍያ አሰራር የመተግበር ሒደት ለኦዲት ሥራው አጋዥ እንደነበር አመላክተዋል።</p>
+<p>በተለያዩ ተቋማት አሁንም የበጀት አጠቃቀም ክፍተት መኖሩን ጠቁመው÷ በየተቋማቱ የታዩ የኦዲት ግኝቶችን ለምክር ቤቱ በዝርዝር አቅርበዋል።</p>
+<p>በአሸናፊ ሽብሩ</p>
+</div>]",https://www.fanamc.com/archives/317027#respond
+Amharic,"Jun 25, 2026",ቢዝነስ,No title,[],https://www.fanamc.com/archives/category/tech
+Amharic,"OnJun 4, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ግንቦት 27፣ 2018 (ኤፍ ኤም ሲ) የኢትዮጵያ አየር መንገድ እና የኢትዮጵያ ንግድ ባንክ ከቪዛ ኩባንያ ጋር በመተባበር አዲስ ዓለም አቀፍ የክፍያ ካርድ ይፋ አድርገዋል።</p>
+<p>የክፍያ ካርዱ ደንበኞች በየትኛውም የዓለም ክፍል ሆነው በቀላሉ ግብይት እንዲፈጽሙ የሚያስችል ነው።</p>
+<p>በተለይም የኢትዮጵያ አየር መንገድ የሼባ ማይልስ አባላት የሆኑ መንገደኞች በሚደርሱበት ማንኛውም የዓለም መዳረሻ ፈጣን፣ ቀላልና አስተማማኝ ክፍያዎችን እንዲፈጽሙ ያስችላል።</p>
+<p>ካርዱ አስተማማኝ የደኅንነት ጥበቃ ሥርዓት ያለውና የሦስቱንም ተቋማት ዓርማና ምልክት በአንድ ላይ የያዘ መሆኑም ተገልጿል፡፡</p>
+<p>አዲሱ ዓለም አቀፍ የግብይት ካርድ ለደንበኞች ልዩ ልዩ ሽልማቶችን እና ጥቅማ ጥቅሞችን የሚያስገኝ ሲሆን፥ ለኢትዮጵያ አየር መንገድ ደንበኞች ክፍት መሆኑም ነው የተገለጸው።</p>
+<p>የአገልግሎቱ ተጠቃሚዎች በየጉዟቸው የሚያደርጉት ግብይት ተጠራቅሞ ወደ ጉዞ ዕድል የሚቀየር ሲሆን፥ ካርዱን በሽያጭ ማሽን ወይም በኢ-ኮሜርስ አማካኝነት ለኦንላይን ግብይት በሚጠቀሙበት ወቅት ለተጨማሪ ሽልማት የመታጨት እድላቸውን የሚያሰፋ ነው፡፡</p>
+</div>]",https://www.fanamc.com/archives/316294
+Amharic,"Jun 26, 2026",ቢዝነስ,No title,[],https://www.fanamc.com/archives/category/localnews
+Amharic,"Mar 19, 2021",ቢዝነስ,No title,[],https://www.fanamc.com/archives/category/alem-shemach
+Amharic,"Jun 19, 2026",ቢዝነስ,No title,[],https://www.fanamc.com/archives/category/health
+Amharic,"OnJun 17, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ሰኔ 10፣ 2018 (ኤፍ ኤም ሲ) በአማራ ክልል እየተከናወነ በሚገኛው የኮሪደር ልማት ፕሮጀክት እስካሁን ባለው ጊዜ ውስጥ ከ180 ሺህ በላይ ለሚሆኑ ዜጎች የሥራ ዕድል ተፈጥሯል።</p>
+<p>በ2018 በጀት ዓመት ክልሉን ዘመናዊና ለኑሮ ተስማሚ ለማድረግ የታቀዱ የኮሪደር ልማት ሥራዎች በ7 ሪጂኦፖሊታን የከተማ አስተዳደሮች እና ከ35 በላይ በሚሆኑ መካከለኛና አነስተኛ ከተሞች ላይ በከፍተኛ ፍጥነትና ስኬት እየተከናወኑ ይገኛሉ።</p>
+<p>በመሠረተ ልማት ዘርፍ በበጀት ዓመቱ ከ204 ኪሎ ሜትር በላይ መንገድ ለመሥራት ታቅዶ እስካሁን 137 ኪሎ ሜትር በላይ የሚረዝም መንገድ ማጠናቀቅ መቻሉን የክልሉ ከተማና መሠረተ ልማት ቢሮ መረጃ አመልክቷል፡፡</p>
+<p>በዚህም ከተከናወኑት የሥራ ክፍሎች መካከል 18 ኪሎ ሜትር የአስፋልት ንጣፍ መንገድ፣ 64 ኪሎ ሜትር የእግረኛ መንገድ እንዲሁም ከ54 ኪሎ ሜትር በላይ የሳይክል መስመር ግንባታ ይገኙበታል።</p>
+<p>የከተሞችን ገጽታ ለመቀየርና ማራኪ ለማድረግ በውበት ሥራ ከተያዘው 129 ሄክታር በላይ መሬት ውስጥ በአሁኑ ወቅት ከ104 ሄክታር በላይ የሚሆነውን ማልማት የተቻለ ሲሆን÷ ከዚህ ውስጥ የመንገድ ዳር አረንጓዴ ልማትንና የመናፈሻ ቦታዎችን ጨምሮ ከ54 ሄክታር በላይ መሬት ለምቷል።</p>
+<p>እንዲሁም 12 የሕዝብ መጸዳጃ ቤቶች፣ 20 የውኃ ፋውንቴን፣ 5 የአደባባይ ማስዋብ፣ 5 የልጆች መጫወቻ ቦታዎች፣ 8 የስፖርት ማዘውተሪያዎች እና 299 መለስተኛ ካፌዎች ተገንብተው ለአገልግሎት ዝግጁ ሆነዋል።</p>
+<p>ከተሞቹን ይበልጥ ዘመናዊና ደህንነታቸው የተጠበቀ ለማድረግ 6 የኤሌክትሪክ መኪና ቻርጅ ማድረጊያ ጣቢያዎች የተገነቡ ሲሆን÷ የስማርት ፖል ተከላ፣ የደህንነት ካሜራዎች ገጠማ እንዲሁም የመከላከያ ግንብና የጎርፍ መፍሰሻ ቦዮች ግንባታ በተሳካ ሁኔታ ተከናውኗል።</p>
+<p>ለፕሮጀክቶቹ ማስፈጸሚያ እስካሁን ከ7 ነጥብ 6 ቢሊየን ብር በላይ ወጪ የተደረገ ሲሆን ÷ለዚህም ከመንግሥት በጀት ከ5 ቢሊየን ብር በላይ ወጪ ሲደረግ ቀሪው ከ2 ቢሊየን ብር በላይ በማኅበረሰብ ተሳትፎ የተሸፈነ መሆኑ ተጠቅሷል፡፡</p>
+<p>ይህ በክልሉ እየተገበረ የሚገኘው የኮሪደር ልማት የከተሞችን ገጽታ ከመቀየርና ለነዋሪዎች ምቹ ከማድረግ ባለፈ ከ180 ሺህ በላይ ለሚሆኑ ዜጎች ሰፊ የሥራ ዕድል በመፍጠር የሕዝቡን ተጠቃሚነት ማረጋገጥ የቻለ ታላቅ የልማት ምዕራፍ መሆኑ ተመልክቷል፡፡</p>
+<p>በከድር መሀመድ</p>
+</div>]",https://www.fanamc.com/archives/316930
+Amharic,"OnJun 10, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ሰኔ 3፣ 2018 (ኤፍ ኤም ሲ) የሚኒስትሮች ምክር ቤት ባካሄደው 56ኛ መደበኛ ስብሰባ የ2019 በጀት ዓመት ረቂቅ በጀት 2 ትሪሊየን 339 ቢሊየን 268 ሚሊየን 126 ሺህ 738 ብር ሆኖ ለሕዝብ ተወካዮች ም/ቤት እንዲቀርብ ወስኗል።</p>
+<p>የሚኒስትሮች ምክር ቤት በሰፊው ከተወያየበት በኋላ ወደ ሕዝብ ተወካዮች ምክር ቤት እንዲተላለፍ በሙሉ ድምጽ የወሰነው የ2019 ረቂቅ በጀት አዋጅን የተመለከቱ ሃሳቦችን ዘርዘር አድርገን እንመልከት።</p>
+<p>👉ረቂቅ በጀቱ ከባለፈው በጀት ዓመት አንጻር…</p>
+<p>ለ2019 በጀት ዓመት ረቂቅ በጀት 2 ትሪሊየን 339 ቢሊየን 268 ሚሊየን 126 ሺህ 738 ብር ሆኖ ለሕዝብ ተወካዮች ምክር ቤት እንዲቀርብ የተወሰነ ሲሆን÷ ይህም በባለፈው በጀት ዓመት ከተመደበው አንጻር ሲታይ በ410 ቢሊየን ብር ገደማ ብልጫ አሳይቷል።</p>
+<p>👉በጀቱ ምን ላይ ይውላል?</p>
+<p>በጀቱ ለመደበኛ ወጪዎች፣ ለካፒታል ወጪዎች፣ ለክልል መንግሥታት ድጋፍ እና ለዘላቂ የልማት ግቦች ማስፈጸሚያ ድጋፍ የሚውል ይሆናል።</p>
+<p>በተቋማት የመንግሥትን አገልግሎት ለመስጠትና ለማሻሻል ያለመው የካፒታል ወጪ በጤና፣ በትምህርት፣ በመንገድ እና በሌሎች ዘርፎች የሚከናወኑ የመሠረተ ልማት ዝርጋታዎችን ወጪ ለመሸፈን ይውላል።</p>
+<p>👉ረቂቅ በጀቱ ምን ሁኔታዎችን ከግምት ያስገባ ነው?</p>
+<p>ረቂቅ በጀቱ የቀረበው የ2019 የፌዴራል መንግሥት በጀት የአስር ዓመቱ መሪ የልማት ዕቅድ አካል የሆነው የ2019 – 2021 የልማትና ኢንቨስትመንት ዕቅድ ላይ የተቀመጡ ግቦችንና የመካከለኛ ዘመን (2019 – 2023) የማክሮ ኢኮኖሚና የፊሲካል ማዕቀፍን መሰረት በማድረግ ነው።</p>
+<p>የ2018 በጀት ዓመት የፕሮግራም በጀት አፈጻጸም መነሻ በማድረግ በቀጣይ ሊኖር የሚችለውን የማህበራዊና የኢኮኖሚ ትራንስፎርሜሽን አቅጣጫዎችና አላማዎች እንዲሁም በመንግሥት የተቀመጡ ግቦችን ለማሳካት የመንግሥትን የፋይናንስ አቅም እና አስፈጻሚ መስሪያ ቤቶች ከተሰጣቸው ተልዕኮና ኃላፊነት አንጻር የሚያስፈልገውን ወጪ በመገምገም ተዘጋጅቶ ቀርቧል።</p>
+<p>👉ረቂቅ በጀቱ እንዴት ይጸድቃል?</p>
+<p>ረቂቅ በጀቱ ሕጋዊነት እና የበጀት ግልጽነት በሚታይበት መልኩ በሕዝብ ተወካዮች ምክር ቤት ውይይት እና ክርክር ተደርጎበት ይጸድቃል።</p>
+<p>👉ከጸደቀ በኋላ…</p>
+<p>ይህ ከፍተኛ በጀት በታለመለት መልኩ ሕዝብ ተጠቃሚ እንዲያደርግ ትግበራና እና ክትትል ላይ ከፍተኛ ትኩረትን ይሻል።</p>
+<p>የመንግሥት ተቋማት የተፈቀዱላቸውን በጀቶች ተቀብለው የሥራ መርሐ ግብሮቻቸውን ያዘጋጃሉ፤ ይተገብራሉ።</p>
+<p>በዚህ ወቅት የበጀት ቁጥጥር እና ክትትል ዋናው ሥራ ሲሆን በሁሉም የሕዝብ ተቋማት የፋይናንስ መለያዎች እና የአፈፃፀም ሪፖርቶች ይመረመራሉ። ይህም ገንዘቡ በትክክል ለሕዝብ ጥቅም መዋሉ የሚረጋገጥበት መንገድ ነው።</p>
+<p>ረቂቅ በጀቱ አሁን ላይ ኢትዮጵያ የጀመረቻቸውን ግዙፍ ፕሮጀክቶች በስኬት ለማጠናቀቅ ብሎም ዘላቂ የልማት ግቦችን ለማስፈጽም ጉልም ሚና ይኖረዋል፡፡</p>
+<p>አሁን ላይ ኢትዮጵያ እያስመዘገበች ያለውን ሁለንተናዊ የኢኮኖሚ እድገት ለማስቀጠልና በጽኑ መሰረት ላይ ለመገንባት ረቂቅ በጀቱ ከፍተኛ አስተዋጽኦ እንደሚያበረክትም ተመልክቷል፡፡</p>
+<p>በብርሃኑ አበራ</p>
+</div>]",https://www.fanamc.com/archives/316565#respond
+Amharic,"OnJun 3, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ግንቦት 26፣ 2018 (ኤፍ ኤም ሲ) የኢትዮጵያ ኤሌክትሪክ አገልግሎት ቶውት ሊደር አፍሪካ ከተሰኘ የኖርዌይ ቴክኖሎጂ ኤጀንሲ ጋር በኤሌክትሪክ ተሽከርካሪዎች አጠቃቀም ላይ በትብብር ለመስራት የመግባቢያ ሰነድ ተፈራርሟል፡፡</p>
+<p>ስምምነቱ የኤሌክትሪክ ተሽከርካሪዎችን በስፋት ለማስተዋወቅና ዘመናዊ የኃይል አጠቃቀምን ለማሳደግ ያለመ መሆኑ ተመላክቷል፡፡</p>
+<p>ለልምድ እና የቴክኖሎጂ ሽግግር እንዲሁም በኤሌክትሪክ ተሽከርካሪዎች ቴክኖሎጂ አጠቃቀም ረጅም ዓመታት የበለጸገ ልምድ ያላትን የኖርዌይን ተሞክሮ ወደ ኢትዮጵያ ለማምጣት እንደሚያስችልም ተጠቅሷል፡፡</p>
+<p>ይህም ለአምራችና ለአገልግሎት ሰጪ ተቋማት አቅም ግንባታ ከፍተኛ አስተዋጽኦ እንደሚያበረክት ነው የተገለጸው፡፡</p>
+<p>ስምምነቱ በሀገር አቀፍ ደረጃ የኤሌክትሪክ መኪና መሙያ መሠረተ ልማቶችን ለመዘርጋትና ዘመናዊ የቴክኖሎጂ አጠቃቀምን ለማስፈን ለተጀመረው ስትራቴጂካዊ ጉዞ ትልቅ አጋዥ እንደሚሆን መገለጹን አገልግሎቱ ለፋና ዲጂታል የላከው መረጃ ያመላክታል፡፡</p>
+<p>በፊርማ ሥነ ሥርዓቱ ላይ የኢትዮጵያ ኤሌክትሪክ አገልግሎት ዋና ሥራ አስፈጻሚው ጌቱ ገረመው (ኢ/ር)፣ በኢትዮጵያ የኖርዌይ አምባሳደር ስቴይን ክሪስቴንሰን እና ሌሎች ከፍተኛ የሥራ ኃላፊዎች ተገኝተዋል።</p>
+</div>]",https://www.fanamc.com/archives/316225#respond
+Amharic,"OnJun 10, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ሰኔ 3፣ 2018 (ኤፍ ኤም ሲ) ሚድሮክ ኢንቨስትመንት ግሩፕ እና ዓለም አቀፉ የፋይናንስ ኮርፖሬሽን የ80 ሚሊየን የአሜሪካን ዶላር የረጅም ጊዜ የብድር ስምምነት ተፈራርመዋል።</p>
+<p>ስምምነቱን የሚድሮክ ኢንቨስትመንት ግሩፕ ዋና ሥራ አስፈጻሚ ጀማል አህመድና የዓለም አቀፉ የፋይናንስ ኮርፖሬሽን የአፍሪካ ቀጣና ምክትል ፕሬዚዳንት ኢትዮጲስ ተፈራ በኬንያ ናይሮቢ ነው የተፈራረሙት።</p>
+<p>አቶ ጀማል አሕመድ በዚህ ወቅት እንዳሉት÷ ከዓለም አቀፉ የፋይናንስ ተቋም ጋር የተጀመረው አጋርነት የሀገሪቱን የሆስፒታሊቲ ዘርፍ ለማዘመን እንዲሁም በኢትዮጵያ ቀጣይነት ያለው የሥራ ዕድል ፈጠራን ለማጠናከር ከፍተኛ ሚና ይጫወታል።</p>
+<p>ኢትዮጲስ ተፈራ በበኩላቸው÷ ሚድሮክ ኢንቨስትመንት ግሩፕ የአገልግሎት ዘርፉን የበለጠ እንዲያዘምንና ተጨማሪ የሥራ እድል እንደፈጥር ስምምነት ላይ ተደርሷል ብለዋል።</p>
+<p>በተገኘው ገንዘብ ሚድሮክ ኢንቨስትመንት ግሩፕ ሸራተን አዲስ ሌግዠሪ ኮሌክሽን ሆቴልን በዘመናዊ መልኩ እንደሚያድስ ተገልጿል።</p>
+<p>በሸራተን ደረጃ አዲስ ሆቴል እንደሚገነባም የሚድሮክ ኢንቨስትመንት ግሩፕ ለፋና ዲጂታል በላከው መረጃ አመላክቷል።</p>
+</div>]",https://www.fanamc.com/archives/316555#respond
+Amharic,"OnJun 7, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ግንቦት 30፣ 2018 (ኤፍ ኤም ሲ) በአማራ ክልል በኢትዮጵያ ታምርት ንቅናቄ በበጀት ዓመቱ 158 መካከለኛ እና ከፍተኛ አምራች ኢንዱስትሪዎች በአዲስ መልክ ምርት ማምረት ጀምረዋል አለ የክልሉ ኢንዱስትሪና ኢንቨስትመንት ቢሮ።</p>
+<p>የአማራ ክልል ርዕሰ መስተዳድር አረጋ ከበደ፣ የኢንዱስትሪ ሚኒስትር መላኩ አለበል እንዲሁም ሌሎች የፌዴራልና የክልሉ ከፍተኛ አመራሮች በተገኙበት የኢትዮጵያ ታምርት ንቅናቄ ክልላዊ የማጠቃለያ መርሐ ግብር በኮምቦልቻ ከተማ እየተካሄደ ነው።</p>
+<p>የቢሮ ምክትል ኃላፊ ተፈሪ ታረቀኝ በዚህ ወቅት እንዳሉት÷ የኢትዮጵያ ታምርት ንቅናቄ በክልሉ በአምራች ኢንዱስትሪ ዘርፉ የነበሩ ችግሮችን እየፈታ መጥቷል።</p>
+<p>በተለይም ባለሃብቱ ያነሳቸው የነበሩ ጥያቄዎችን ደረጃ በደረጃ ለመፍታት እንዳስቻለ ገልጸው ይህም የአምራች ኢንዱስትሪዎችን ከማስፋፋት ባሻገር የማምረት አቅማቸውን በማሳደግ የውጭ ምንዛሬ ግኝትን ለማስፋት እያገዘ ነው ብለዋል።</p>
+<p>በተያዘው በጀት ዓመት ባለፉት ወራት ብቻ በኢትዮጵያ ታምረት ንቅናቄው 158 መካከለኛና ከፍተኛ አምራች ኢንዱስትሪዎች በአዲስ መልክ ማምረት መጀመራቸውንም ጠቁመዋል።</p>
+<p>“ኢትዮጵያ ታምርት ለሁለንተናዊ ሉዓላዊነት” በሚል መሪ ኃሳብ እየተካሄደ ባለው በዚህ መርሐ ግብር ላይ 145 ኢንዱስትሪዎች ምርትና አገልግሎታቸውን እያስተዋወቁ እንደሚገኙ መገለጹን የክልሉ ኮሙኒኬሽን መረጃ አመልክቷል፡፡</p>
+</div>]",https://www.fanamc.com/archives/316417#respond
+Amharic,"OnOct 2, 2023",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ መስከረም 21፣ 2016 (ኤፍ ቢ ሲ) የኢትዮጵያ አየር መንገድ ከሚቀጥለው ወር ጀምሮ ወደ ጂቡቲ የሚያደርገውን በረራ በሣምንት ወደ 17 ጊዜ አሳደገ፡፡</p>
+<p>አየር መንገዱ ከፈረንጆቹ ኅዳር 1ቀን 2023 ጀምሮ ወደ ጂቡቲ የሚያደርገውን በረራ የሚያሳድገው ሦስት የሌሊት በረራዎችን በመጀመር መሆኑንም ጠቁሟል፡፡</p>
+<div dir=""auto""><a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1qq9wsj xo1l8bm"" href=""https://www.facebook.com/hashtag/ethiopia?__eep__=6&amp;__cft__[0]=AZWf2gVoEeo88aq_Zm_bYTaxvjuKFhMpJtJaDESM7_8WSbQqpXmCxCd9tCH3OQ51gDTMZ2FvpeNzz1k15hc6lXgJ4QbD4zW3HAKXjzlCiWWOoZSmIopXxDznlpjJuYqppu7sfioafEUgYVjuIirToxwaF9Gn6v2heNpbd2QlH4O7x565glq-PSp8_nXDd2cUU3E&amp;__tn__=*NK-R"" role=""link"" tabindex=""0"">#Ethiopia</a></div>
+<div dir=""auto"">ወቅታዊ፣ትኩስ እና የተሟሉ መረጃዎችን ለማግኘት፡-</div>
+<div dir=""auto"">ድረ ገጽ፦ <a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1fey0fg"" href=""https://www.fanabc.com/?fbclid=IwAR0QBTwCV8QsABsd5GMO_x7o5C5lS2lKbqCVhyCI2NJ5OEvnUKYH-OR6FEY"" rel=""nofollow noopener noreferrer"" role=""link"" tabindex=""0"" target=""_blank"">https://www.fanabc.com/</a></div>
+<div dir=""auto"">ፌስቡክ፡- <a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1qq9wsj xo1l8bm"" href=""https://www.facebook.com/fanabroadcasting?__cft__[0]=AZWf2gVoEeo88aq_Zm_bYTaxvjuKFhMpJtJaDESM7_8WSbQqpXmCxCd9tCH3OQ51gDTMZ2FvpeNzz1k15hc6lXgJ4QbD4zW3HAKXjzlCiWWOoZSmIopXxDznlpjJuYqppu7sfioafEUgYVjuIirToxwaF9Gn6v2heNpbd2QlH4O7x565glq-PSp8_nXDd2cUU3E&amp;__tn__=-]K-R"" role=""link"" tabindex=""0""><span class=""xt0psk2"">https://www.facebook.com/fanabroadcasting</span></a></div>
+<div dir=""auto"">ዩትዩብ፦ <a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1fey0fg"" href=""https://www.youtube.com/c/fanabroadcastingcorporate/?fbclid=IwAR20xgubPoWjYp5uN8HuWC7Kipc-_T_deTVoMN5PKtGpKSB7k-lJekRXQZw"" rel=""nofollow noopener noreferrer"" role=""link"" tabindex=""0"" target=""_blank"">https://www.youtube.com/c/fanabroadcastingcorporate/</a></div>
+<div dir=""auto"">ቴሌግራም፦ <a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1fey0fg"" href=""https://t.me/fanatelevision?fbclid=IwAR35inwBiu5Pc7t_FdTgH6XmKemHHH9iSaCwerl6JfQU7bbLyR12IgYDTz8"" rel=""nofollow noopener noreferrer"" role=""link"" tabindex=""0"" target=""_blank"">https://t.me/fanatelevision</a></div>
+<div dir=""auto"">ትዊተር፦ <a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1fey0fg"" href=""https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2Ffanatelevision%3Ffbclid%3DIwAR2aeMGgDYydyuSI86ta1sTs86AgdXhco-o-6f6P2tPAzbdaxjuH5hRhQD4&amp;h=AT3JADHmEIj33Q-VrZEn_vlXgVPs6Vo5vu8d2gVGUfoxmwUk2iJXDb3_lZAHR8bFneVHQseA-6rcBF6Ev7GSfQa3uT5Vk_lyrCmxnQHmOVUWGBDw4ypzLyzTMHX2Aea_x4CN&amp;__tn__=-UK-R&amp;c[0]=AT2qyTVnOWE1e5SeiKLxciSEeJYvD3F5-HYSs3qKd5ZmHAgjJPc8Tti4gvDPCgawqHZ5MZ19Y5Bf_17_8eXabpJwtCXaFbYOazwmHuHjuyZ1b3sIdWXbuYt66I126UslOvnSBt5E2g-A5Sh4j1lJFfhjQlEKwq-sOO7RL3CDC3ps3v_um6SBVH-MsSs_9HhexXX5sLPvpsgu"" rel=""nofollow noopener noreferrer"" role=""link"" tabindex=""0"" target=""_blank"">https://twitter.com/fanatelevision</a> በመወዳጀት ይከታተሉን፡፡</div>
+<div dir=""auto"">ኢንስታግራም፦ <a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1fey0fg"" href=""https://www.instagram.com/fana_television/?fbclid=IwAR2Cws1odZTAfEu6DpM5Er3G4Nqey84rXwjJjgQ-TvBherkr5Dt33QhpTEM"" rel=""nofollow noopener noreferrer"" role=""link"" tabindex=""0"" target=""_blank"">https://www.instagram.com/fana_television/</a></div>
+<div dir=""auto"">ቲክቶክ፦ <a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1fey0fg"" href=""https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.tiktok.com%2F%40fana_television%3Ffbclid%3DIwAR37y2LOXky3bnMuHEEltIxuvW12SVLUK9sneqEFhcabE0BFna9jNBmWG0E&amp;h=AT1y3jTRIb_yWjPybuRB0s7g4BkloAWtRhYnMILq8D2iHFwT1jyH20wfzdracJDGzUBp0C0qFBImZuXNYN-2uHRLeh8RtYLAFvZKk6BZr31HRTnCzc6BfJTL2EHkCAsmDJrE&amp;__tn__=-UK-R&amp;c[0]=AT2qyTVnOWE1e5SeiKLxciSEeJYvD3F5-HYSs3qKd5ZmHAgjJPc8Tti4gvDPCgawqHZ5MZ19Y5Bf_17_8eXabpJwtCXaFbYOazwmHuHjuyZ1b3sIdWXbuYt66I126UslOvnSBt5E2g-A5Sh4j1lJFfhjQlEKwq-sOO7RL3CDC3ps3v_um6SBVH-MsSs_9HhexXX5sLPvpsgu"" rel=""nofollow noopener noreferrer"" role=""link"" tabindex=""0"" target=""_blank"">https://www.tiktok.com/@fana_television</a></div>
+<div dir=""auto"">ዘወትር፦ ከእኛ ጋር ስላሉ እናመሰግናለን!</div>
+</div>]",https://www.fanamc.com/archives/214536#respond
+Amharic,"OnJun 12, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ሰኔ 5፣ 2018 (ኤፍ ኤም ሲ) በአማራ ክልል የማዕድን ሃብት ልማት የውጭ ምርቶችን በሀገር ውስጥ በመተካት የውጭ ምንዛሪ ወጪን እየቀነሰ ነው አለ የክልሉ ማዕድን ሀብት ልማት ቢሮ፡፡</p>
+<p>የቢሮው ኃላፊ ኃይሌ አበበ እንዳሉት÷ በክልሉ ማዕድን የሀገር በቀል የኢኮኖሚ ማሻሻያ ዋነኛ ምሰሶ ተደርጎ ከተወሰደ ወዲህ ዘርፉን ለማሳደግ ልዩ ትኩረት ተሰጥቷል።</p>
+<p>ከከፍተኛ ትምህርት ተቋማት ጋር በመተባበርና ሳይንሳዊ ምርምር በማካሄድ ከውጭ የሚገቡ ውድ የማዕድን ውጤቶችን በሀገር ውስጥ የመተካት ሥራ መጠናከሩን ተናግረዋል፡፡</p>
+<p>በዚህም ከዚህ በፊት በዘርፉ ላይ ይስተዋሉ የነበሩ የተሳሳቱ አመለካከቶችና ጥርጣሬዎች ሙሉ በሙሉ ተቀይረዋል ነው ያሉት ሃላፊው፡፡</p>
+<p>በአሁኑ ወቅት ክልሉ እያመረታቸው ያሉ የማዕድን ውጤቶች የውጭ ምንዛሪ ወጪን ለመቀነስ ትልቅ አቅም እየሆኑ መምጣታቸውን አስረድተዋል።</p>
+<p>በተለይም ከዚህ ቀደም ከቻይና እና ቱርክ በከፍተኛ የውጭ ምንዛሪ ወደ ሀገር ይገቡ የነበሩት እንደ ግራናይት፣ ማርበልና የድንጋይ ከሰል ያሉ ምርቶች በክልሉ እየተመረቱ መሆኑን ጠቅሰዋል፡፡</p>
+<p>ዘርፉን ዘመኑን በዋጀ መንገድ በሳይንሳዊ ምርምርና በእውቀት ለመምራት ከወልድያ፣ ደብረ ማርቆስ እና ሌሎች ዩኒቨርሲቲዎች ጋር በትብብር እየተሰራ ነው ብለዋል፡፡</p>
+<p>ይህን ተከትሎም ባህላዊ የኦፓል እና የድንጋይ ከሰል አምራቾች በዘመናዊ መዋቅር ተደራጅተው ወደ ሕጋዊ ምርት መግባታቸውን ጠቅሰዋል።</p>
+<p>በሶስና አለማየሁ</p>
+</div>]",https://www.fanamc.com/archives/316678
+Amharic,"Jun 26, 2026",ቢዝነስ,No title,[],https://www.fanamc.com/archives/author/melakug
+Amharic,"Oct 2, 2023",ቢዝነስ,No title,[],https://www.fanamc.com/archives/category/business-video
+Amharic,"OnOct 2, 2023",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ መስከረም 21፣ 2016 (ኤፍ ቢ ሲ) የኢትዮጵያ አየር መንገድ ከሚቀጥለው ወር ጀምሮ ወደ ጂቡቲ የሚያደርገውን በረራ በሣምንት ወደ 17 ጊዜ አሳደገ፡፡</p>
+<p>አየር መንገዱ ከፈረንጆቹ ኅዳር 1ቀን 2023 ጀምሮ ወደ ጂቡቲ የሚያደርገውን በረራ የሚያሳድገው ሦስት የሌሊት በረራዎችን በመጀመር መሆኑንም ጠቁሟል፡፡</p>
+<div dir=""auto""><a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1qq9wsj xo1l8bm"" href=""https://www.facebook.com/hashtag/ethiopia?__eep__=6&amp;__cft__[0]=AZWf2gVoEeo88aq_Zm_bYTaxvjuKFhMpJtJaDESM7_8WSbQqpXmCxCd9tCH3OQ51gDTMZ2FvpeNzz1k15hc6lXgJ4QbD4zW3HAKXjzlCiWWOoZSmIopXxDznlpjJuYqppu7sfioafEUgYVjuIirToxwaF9Gn6v2heNpbd2QlH4O7x565glq-PSp8_nXDd2cUU3E&amp;__tn__=*NK-R"" role=""link"" tabindex=""0"">#Ethiopia</a></div>
+<div dir=""auto"">ወቅታዊ፣ትኩስ እና የተሟሉ መረጃዎችን ለማግኘት፡-</div>
+<div dir=""auto"">ድረ ገጽ፦ <a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1fey0fg"" href=""https://www.fanabc.com/?fbclid=IwAR0QBTwCV8QsABsd5GMO_x7o5C5lS2lKbqCVhyCI2NJ5OEvnUKYH-OR6FEY"" rel=""nofollow noopener noreferrer"" role=""link"" tabindex=""0"" target=""_blank"">https://www.fanabc.com/</a></div>
+<div dir=""auto"">ፌስቡክ፡- <a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1qq9wsj xo1l8bm"" href=""https://www.facebook.com/fanabroadcasting?__cft__[0]=AZWf2gVoEeo88aq_Zm_bYTaxvjuKFhMpJtJaDESM7_8WSbQqpXmCxCd9tCH3OQ51gDTMZ2FvpeNzz1k15hc6lXgJ4QbD4zW3HAKXjzlCiWWOoZSmIopXxDznlpjJuYqppu7sfioafEUgYVjuIirToxwaF9Gn6v2heNpbd2QlH4O7x565glq-PSp8_nXDd2cUU3E&amp;__tn__=-]K-R"" role=""link"" tabindex=""0""><span class=""xt0psk2"">https://www.facebook.com/fanabroadcasting</span></a></div>
+<div dir=""auto"">ዩትዩብ፦ <a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1fey0fg"" href=""https://www.youtube.com/c/fanabroadcastingcorporate/?fbclid=IwAR20xgubPoWjYp5uN8HuWC7Kipc-_T_deTVoMN5PKtGpKSB7k-lJekRXQZw"" rel=""nofollow noopener noreferrer"" role=""link"" tabindex=""0"" target=""_blank"">https://www.youtube.com/c/fanabroadcastingcorporate/</a></div>
+<div dir=""auto"">ቴሌግራም፦ <a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1fey0fg"" href=""https://t.me/fanatelevision?fbclid=IwAR35inwBiu5Pc7t_FdTgH6XmKemHHH9iSaCwerl6JfQU7bbLyR12IgYDTz8"" rel=""nofollow noopener noreferrer"" role=""link"" tabindex=""0"" target=""_blank"">https://t.me/fanatelevision</a></div>
+<div dir=""auto"">ትዊተር፦ <a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1fey0fg"" href=""https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2Ffanatelevision%3Ffbclid%3DIwAR2aeMGgDYydyuSI86ta1sTs86AgdXhco-o-6f6P2tPAzbdaxjuH5hRhQD4&amp;h=AT3JADHmEIj33Q-VrZEn_vlXgVPs6Vo5vu8d2gVGUfoxmwUk2iJXDb3_lZAHR8bFneVHQseA-6rcBF6Ev7GSfQa3uT5Vk_lyrCmxnQHmOVUWGBDw4ypzLyzTMHX2Aea_x4CN&amp;__tn__=-UK-R&amp;c[0]=AT2qyTVnOWE1e5SeiKLxciSEeJYvD3F5-HYSs3qKd5ZmHAgjJPc8Tti4gvDPCgawqHZ5MZ19Y5Bf_17_8eXabpJwtCXaFbYOazwmHuHjuyZ1b3sIdWXbuYt66I126UslOvnSBt5E2g-A5Sh4j1lJFfhjQlEKwq-sOO7RL3CDC3ps3v_um6SBVH-MsSs_9HhexXX5sLPvpsgu"" rel=""nofollow noopener noreferrer"" role=""link"" tabindex=""0"" target=""_blank"">https://twitter.com/fanatelevision</a> በመወዳጀት ይከታተሉን፡፡</div>
+<div dir=""auto"">ኢንስታግራም፦ <a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1fey0fg"" href=""https://www.instagram.com/fana_television/?fbclid=IwAR2Cws1odZTAfEu6DpM5Er3G4Nqey84rXwjJjgQ-TvBherkr5Dt33QhpTEM"" rel=""nofollow noopener noreferrer"" role=""link"" tabindex=""0"" target=""_blank"">https://www.instagram.com/fana_television/</a></div>
+<div dir=""auto"">ቲክቶክ፦ <a class=""x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1fey0fg"" href=""https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.tiktok.com%2F%40fana_television%3Ffbclid%3DIwAR37y2LOXky3bnMuHEEltIxuvW12SVLUK9sneqEFhcabE0BFna9jNBmWG0E&amp;h=AT1y3jTRIb_yWjPybuRB0s7g4BkloAWtRhYnMILq8D2iHFwT1jyH20wfzdracJDGzUBp0C0qFBImZuXNYN-2uHRLeh8RtYLAFvZKk6BZr31HRTnCzc6BfJTL2EHkCAsmDJrE&amp;__tn__=-UK-R&amp;c[0]=AT2qyTVnOWE1e5SeiKLxciSEeJYvD3F5-HYSs3qKd5ZmHAgjJPc8Tti4gvDPCgawqHZ5MZ19Y5Bf_17_8eXabpJwtCXaFbYOazwmHuHjuyZ1b3sIdWXbuYt66I126UslOvnSBt5E2g-A5Sh4j1lJFfhjQlEKwq-sOO7RL3CDC3ps3v_um6SBVH-MsSs_9HhexXX5sLPvpsgu"" rel=""nofollow noopener noreferrer"" role=""link"" tabindex=""0"" target=""_blank"">https://www.tiktok.com/@fana_television</a></div>
+<div dir=""auto"">ዘወትር፦ ከእኛ ጋር ስላሉ እናመሰግናለን!</div>
+</div>]",https://www.fanamc.com/archives/214536
+Amharic,"Feb 19, 2022",ቢዝነስ,No title,[],https://www.fanamc.com/archives/author/meseretd
+Amharic,"OnMar 19, 2021",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p><iframe allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen="""" frameborder=""0"" height=""658"" src=""https://www.youtube.com/embed/h7LOO2dss5g?wmode=transparent&amp;rel=0&amp;feature=oembed"" title=""አለም ሸማች - የኑሮ ውድነት"" width=""1170""></iframe></p>
+</div>]",https://www.fanamc.com/archives/61332
+Amharic,"Jun 26, 2026",ቢዝነስ,No title,[],https://www.fanamc.com/archives/author/yonas-getnet2494
+Amharic,"OnJun 10, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ሰኔ 3፣ 2018 (ኤፍ ኤም ሲ) የሚኒስትሮች ምክር ቤት ባካሄደው 56ኛ መደበኛ ስብሰባ የ2019 በጀት ዓመት ረቂቅ በጀት 2 ትሪሊየን 339 ቢሊየን 268 ሚሊየን 126 ሺህ 738 ብር ሆኖ ለሕዝብ ተወካዮች ም/ቤት እንዲቀርብ ወስኗል።</p>
+<p>የሚኒስትሮች ምክር ቤት በሰፊው ከተወያየበት በኋላ ወደ ሕዝብ ተወካዮች ምክር ቤት እንዲተላለፍ በሙሉ ድምጽ የወሰነው የ2019 ረቂቅ በጀት አዋጅን የተመለከቱ ሃሳቦችን ዘርዘር አድርገን እንመልከት።</p>
+<p>👉ረቂቅ በጀቱ ከባለፈው በጀት ዓመት አንጻር…</p>
+<p>ለ2019 በጀት ዓመት ረቂቅ በጀት 2 ትሪሊየን 339 ቢሊየን 268 ሚሊየን 126 ሺህ 738 ብር ሆኖ ለሕዝብ ተወካዮች ምክር ቤት እንዲቀርብ የተወሰነ ሲሆን÷ ይህም በባለፈው በጀት ዓመት ከተመደበው አንጻር ሲታይ በ410 ቢሊየን ብር ገደማ ብልጫ አሳይቷል።</p>
+<p>👉በጀቱ ምን ላይ ይውላል?</p>
+<p>በጀቱ ለመደበኛ ወጪዎች፣ ለካፒታል ወጪዎች፣ ለክልል መንግሥታት ድጋፍ እና ለዘላቂ የልማት ግቦች ማስፈጸሚያ ድጋፍ የሚውል ይሆናል።</p>
+<p>በተቋማት የመንግሥትን አገልግሎት ለመስጠትና ለማሻሻል ያለመው የካፒታል ወጪ በጤና፣ በትምህርት፣ በመንገድ እና በሌሎች ዘርፎች የሚከናወኑ የመሠረተ ልማት ዝርጋታዎችን ወጪ ለመሸፈን ይውላል።</p>
+<p>👉ረቂቅ በጀቱ ምን ሁኔታዎችን ከግምት ያስገባ ነው?</p>
+<p>ረቂቅ በጀቱ የቀረበው የ2019 የፌዴራል መንግሥት በጀት የአስር ዓመቱ መሪ የልማት ዕቅድ አካል የሆነው የ2019 – 2021 የልማትና ኢንቨስትመንት ዕቅድ ላይ የተቀመጡ ግቦችንና የመካከለኛ ዘመን (2019 – 2023) የማክሮ ኢኮኖሚና የፊሲካል ማዕቀፍን መሰረት በማድረግ ነው።</p>
+<p>የ2018 በጀት ዓመት የፕሮግራም በጀት አፈጻጸም መነሻ በማድረግ በቀጣይ ሊኖር የሚችለውን የማህበራዊና የኢኮኖሚ ትራንስፎርሜሽን አቅጣጫዎችና አላማዎች እንዲሁም በመንግሥት የተቀመጡ ግቦችን ለማሳካት የመንግሥትን የፋይናንስ አቅም እና አስፈጻሚ መስሪያ ቤቶች ከተሰጣቸው ተልዕኮና ኃላፊነት አንጻር የሚያስፈልገውን ወጪ በመገምገም ተዘጋጅቶ ቀርቧል።</p>
+<p>👉ረቂቅ በጀቱ እንዴት ይጸድቃል?</p>
+<p>ረቂቅ በጀቱ ሕጋዊነት እና የበጀት ግልጽነት በሚታይበት መልኩ በሕዝብ ተወካዮች ምክር ቤት ውይይት እና ክርክር ተደርጎበት ይጸድቃል።</p>
+<p>👉ከጸደቀ በኋላ…</p>
+<p>ይህ ከፍተኛ በጀት በታለመለት መልኩ ሕዝብ ተጠቃሚ እንዲያደርግ ትግበራና እና ክትትል ላይ ከፍተኛ ትኩረትን ይሻል።</p>
+<p>የመንግሥት ተቋማት የተፈቀዱላቸውን በጀቶች ተቀብለው የሥራ መርሐ ግብሮቻቸውን ያዘጋጃሉ፤ ይተገብራሉ።</p>
+<p>በዚህ ወቅት የበጀት ቁጥጥር እና ክትትል ዋናው ሥራ ሲሆን በሁሉም የሕዝብ ተቋማት የፋይናንስ መለያዎች እና የአፈፃፀም ሪፖርቶች ይመረመራሉ። ይህም ገንዘቡ በትክክል ለሕዝብ ጥቅም መዋሉ የሚረጋገጥበት መንገድ ነው።</p>
+<p>ረቂቅ በጀቱ አሁን ላይ ኢትዮጵያ የጀመረቻቸውን ግዙፍ ፕሮጀክቶች በስኬት ለማጠናቀቅ ብሎም ዘላቂ የልማት ግቦችን ለማስፈጽም ጉልም ሚና ይኖረዋል፡፡</p>
+<p>አሁን ላይ ኢትዮጵያ እያስመዘገበች ያለውን ሁለንተናዊ የኢኮኖሚ እድገት ለማስቀጠልና በጽኑ መሰረት ላይ ለመገንባት ረቂቅ በጀቱ ከፍተኛ አስተዋጽኦ እንደሚያበረክትም ተመልክቷል፡፡</p>
+<p>በብርሃኑ አበራ</p>
+</div>]",https://www.fanamc.com/archives/316565
+Amharic,"OnJun 12, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ሰኔ 5፣ 2018 (ኤፍ ኤም ሲ) የኢትዮጵያ አየር መንገድ ከነገ ሰኔ 6 ቀን 2018 ዓ.ም ጀምሮ ወደ ደብረማርቆስ ከተማ የቅድመ ምረቃ በረራዎችን እንደሚያደርግ አስታውቋል፡፡</p>
+<p>መንገደኞች የበረራ ቲኬቶችን በሁሉም የቲኬት መሸጫ ቢሮዎች ማግኘት እንደሚችሉ የአየር መንገዱ መረጃ አመላክቷል።</p>
+</div>]",https://www.fanamc.com/archives/316713
+Amharic,"Jun 18, 2026",ቢዝነስ,No title,[],https://www.fanamc.com/archives/category/business
+Amharic,"OnMay 14, 2020",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p><iframe allow=""accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen="""" frameborder=""0"" height=""658"" src=""https://www.youtube.com/embed/06VbsfHrBLk?wmode=transparent&amp;rel=0&amp;feature=oembed"" title=""ብሔራዊ ባንክ ለሆቴሎች የሰጠው ብድር"" width=""1170""></iframe></p>
+</div>]",https://www.fanamc.com/archives/21289#respond
+Amharic,"OnJun 12, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ሰኔ 5፣ 2018 (ኤፍ ኤም ሲ) የኢትዮጵያ አየር መንገድ ከነገ ሰኔ 6 ቀን 2018 ዓ.ም ጀምሮ ወደ ደብረማርቆስ ከተማ የቅድመ ምረቃ በረራዎችን እንደሚያደርግ አስታውቋል፡፡</p>
+<p>መንገደኞች የበረራ ቲኬቶችን በሁሉም የቲኬት መሸጫ ቢሮዎች ማግኘት እንደሚችሉ የአየር መንገዱ መረጃ አመላክቷል።</p>
+</div>]",https://www.fanamc.com/archives/316713#respond
+Amharic,"Jun 26, 2026",ቢዝነስ,No title,[],https://www.fanamc.com/archives/category/sport
+Amharic,"OnJun 10, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ሰኔ 3፣ 2018 (ኤፍ ኤም ሲ) ሚድሮክ ኢንቨስትመንት ግሩፕ እና ዓለም አቀፉ የፋይናንስ ኮርፖሬሽን የ80 ሚሊየን የአሜሪካን ዶላር የረጅም ጊዜ የብድር ስምምነት ተፈራርመዋል።</p>
+<p>ስምምነቱን የሚድሮክ ኢንቨስትመንት ግሩፕ ዋና ሥራ አስፈጻሚ ጀማል አህመድና የዓለም አቀፉ የፋይናንስ ኮርፖሬሽን የአፍሪካ ቀጣና ምክትል ፕሬዚዳንት ኢትዮጲስ ተፈራ በኬንያ ናይሮቢ ነው የተፈራረሙት።</p>
+<p>አቶ ጀማል አሕመድ በዚህ ወቅት እንዳሉት÷ ከዓለም አቀፉ የፋይናንስ ተቋም ጋር የተጀመረው አጋርነት የሀገሪቱን የሆስፒታሊቲ ዘርፍ ለማዘመን እንዲሁም በኢትዮጵያ ቀጣይነት ያለው የሥራ ዕድል ፈጠራን ለማጠናከር ከፍተኛ ሚና ይጫወታል።</p>
+<p>ኢትዮጲስ ተፈራ በበኩላቸው÷ ሚድሮክ ኢንቨስትመንት ግሩፕ የአገልግሎት ዘርፉን የበለጠ እንዲያዘምንና ተጨማሪ የሥራ እድል እንደፈጥር ስምምነት ላይ ተደርሷል ብለዋል።</p>
+<p>በተገኘው ገንዘብ ሚድሮክ ኢንቨስትመንት ግሩፕ ሸራተን አዲስ ሌግዠሪ ኮሌክሽን ሆቴልን በዘመናዊ መልኩ እንደሚያድስ ተገልጿል።</p>
+<p>በሸራተን ደረጃ አዲስ ሆቴል እንደሚገነባም የሚድሮክ ኢንቨስትመንት ግሩፕ ለፋና ዲጂታል በላከው መረጃ አመላክቷል።</p>
+</div>]",https://www.fanamc.com/archives/316555
+Amharic,"Jun 26, 2026",ቢዝነስ,No title,[],https://www.fanamc.com/archives/author/hailemaryam
+Amharic,"OnSep 17, 2020",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p><iframe allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen="""" frameborder=""0"" height=""658"" src=""https://www.youtube.com/embed/4gyQ5oZVMXc?wmode=transparent&amp;rel=0&amp;feature=oembed"" title=""የዓባይ ባንክ አዲስ ቴክኖሎጂ"" width=""1170""></iframe></p>
+</div>]",https://www.fanamc.com/archives/34139
+Amharic,"Dec 21, 2025",ቢዝነስ,No title,[],https://www.fanamc.com/archives/category/news_videos
+Amharic,"OnJun 4, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ግንቦት 27፣ 2018 (ኤፍ ኤም ሲ) የኢትዮጵያ አየር መንገድ እና የኢትዮጵያ ንግድ ባንክ ከቪዛ ኩባንያ ጋር በመተባበር አዲስ ዓለም አቀፍ የክፍያ ካርድ ይፋ አድርገዋል።</p>
+<p>የክፍያ ካርዱ ደንበኞች በየትኛውም የዓለም ክፍል ሆነው በቀላሉ ግብይት እንዲፈጽሙ የሚያስችል ነው።</p>
+<p>በተለይም የኢትዮጵያ አየር መንገድ የሼባ ማይልስ አባላት የሆኑ መንገደኞች በሚደርሱበት ማንኛውም የዓለም መዳረሻ ፈጣን፣ ቀላልና አስተማማኝ ክፍያዎችን እንዲፈጽሙ ያስችላል።</p>
+<p>ካርዱ አስተማማኝ የደኅንነት ጥበቃ ሥርዓት ያለውና የሦስቱንም ተቋማት ዓርማና ምልክት በአንድ ላይ የያዘ መሆኑም ተገልጿል፡፡</p>
+<p>አዲሱ ዓለም አቀፍ የግብይት ካርድ ለደንበኞች ልዩ ልዩ ሽልማቶችን እና ጥቅማ ጥቅሞችን የሚያስገኝ ሲሆን፥ ለኢትዮጵያ አየር መንገድ ደንበኞች ክፍት መሆኑም ነው የተገለጸው።</p>
+<p>የአገልግሎቱ ተጠቃሚዎች በየጉዟቸው የሚያደርጉት ግብይት ተጠራቅሞ ወደ ጉዞ ዕድል የሚቀየር ሲሆን፥ ካርዱን በሽያጭ ማሽን ወይም በኢ-ኮሜርስ አማካኝነት ለኦንላይን ግብይት በሚጠቀሙበት ወቅት ለተጨማሪ ሽልማት የመታጨት እድላቸውን የሚያሰፋ ነው፡፡</p>
+</div>]",https://www.fanamc.com/archives/316294#respond
+Amharic,"Jan 10, 2024",ቢዝነስ,No title,[],https://www.fanamc.com/archives/author/alexoceanic
+Amharic,"OnMay 14, 2020",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p><iframe allow=""accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen="""" frameborder=""0"" height=""658"" src=""https://www.youtube.com/embed/06VbsfHrBLk?wmode=transparent&amp;rel=0&amp;feature=oembed"" title=""ብሔራዊ ባንክ ለሆቴሎች የሰጠው ብድር"" width=""1170""></iframe></p>
+</div>]",https://www.fanamc.com/archives/21289
+Amharic,"Jun 26, 2026",ቢዝነስ,No title,[],https://www.fanamc.com/archives/category/worldnews
+Amharic,"OnJun 12, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ሰኔ 5፣ 2018 (ኤፍ ኤም ሲ) በአማራ ክልል የማዕድን ሃብት ልማት የውጭ ምርቶችን በሀገር ውስጥ በመተካት የውጭ ምንዛሪ ወጪን እየቀነሰ ነው አለ የክልሉ ማዕድን ሀብት ልማት ቢሮ፡፡</p>
+<p>የቢሮው ኃላፊ ኃይሌ አበበ እንዳሉት÷ በክልሉ ማዕድን የሀገር በቀል የኢኮኖሚ ማሻሻያ ዋነኛ ምሰሶ ተደርጎ ከተወሰደ ወዲህ ዘርፉን ለማሳደግ ልዩ ትኩረት ተሰጥቷል።</p>
+<p>ከከፍተኛ ትምህርት ተቋማት ጋር በመተባበርና ሳይንሳዊ ምርምር በማካሄድ ከውጭ የሚገቡ ውድ የማዕድን ውጤቶችን በሀገር ውስጥ የመተካት ሥራ መጠናከሩን ተናግረዋል፡፡</p>
+<p>በዚህም ከዚህ በፊት በዘርፉ ላይ ይስተዋሉ የነበሩ የተሳሳቱ አመለካከቶችና ጥርጣሬዎች ሙሉ በሙሉ ተቀይረዋል ነው ያሉት ሃላፊው፡፡</p>
+<p>በአሁኑ ወቅት ክልሉ እያመረታቸው ያሉ የማዕድን ውጤቶች የውጭ ምንዛሪ ወጪን ለመቀነስ ትልቅ አቅም እየሆኑ መምጣታቸውን አስረድተዋል።</p>
+<p>በተለይም ከዚህ ቀደም ከቻይና እና ቱርክ በከፍተኛ የውጭ ምንዛሪ ወደ ሀገር ይገቡ የነበሩት እንደ ግራናይት፣ ማርበልና የድንጋይ ከሰል ያሉ ምርቶች በክልሉ እየተመረቱ መሆኑን ጠቅሰዋል፡፡</p>
+<p>ዘርፉን ዘመኑን በዋጀ መንገድ በሳይንሳዊ ምርምርና በእውቀት ለመምራት ከወልድያ፣ ደብረ ማርቆስ እና ሌሎች ዩኒቨርሲቲዎች ጋር በትብብር እየተሰራ ነው ብለዋል፡፡</p>
+<p>ይህን ተከትሎም ባህላዊ የኦፓል እና የድንጋይ ከሰል አምራቾች በዘመናዊ መዋቅር ተደራጅተው ወደ ሕጋዊ ምርት መግባታቸውን ጠቅሰዋል።</p>
+<p>በሶስና አለማየሁ</p>
+</div>]",https://www.fanamc.com/archives/316678#respond
+Amharic,"Jun 18, 2026",ቢዝነስ,No title,[],https://www.fanamc.com/archives/author/adimasu
+Amharic,"OnMar 19, 2021",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p><iframe allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen="""" frameborder=""0"" height=""658"" src=""https://www.youtube.com/embed/h7LOO2dss5g?wmode=transparent&amp;rel=0&amp;feature=oembed"" title=""አለም ሸማች - የኑሮ ውድነት"" width=""1170""></iframe></p>
+</div>]",https://www.fanamc.com/archives/61332#respond
+Amharic,"OnSep 17, 2020",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p><iframe allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen="""" frameborder=""0"" height=""658"" src=""https://www.youtube.com/embed/4gyQ5oZVMXc?wmode=transparent&amp;rel=0&amp;feature=oembed"" title=""የዓባይ ባንክ አዲስ ቴክኖሎጂ"" width=""1170""></iframe></p>
+</div>]",https://www.fanamc.com/archives/34139#respond
+Amharic,"Feb 27, 2025",ቢዝነስ,No title,[],https://www.fanamc.com/archives/author/mesereta
+Amharic,"OnJun 7, 2026",ቢዝነስ,No title,"[<div class=""entry-content clearfix single-post-content"">
+<p>አዲስ አበባ፣ ግንቦት 30፣ 2018 (ኤፍ ኤም ሲ) በአማራ ክልል በኢትዮጵያ ታምርት ንቅናቄ በበጀት ዓመቱ 158 መካከለኛ እና ከፍተኛ አምራች ኢንዱስትሪዎች በአዲስ መልክ ምርት ማምረት ጀምረዋል አለ የክልሉ ኢንዱስትሪና ኢንቨስትመንት ቢሮ።</p>
+<p>የአማራ ክልል ርዕሰ መስተዳድር አረጋ ከበደ፣ የኢንዱስትሪ ሚኒስትር መላኩ አለበል እንዲሁም ሌሎች የፌዴራልና የክልሉ ከፍተኛ አመራሮች በተገኙበት የኢትዮጵያ ታምርት ንቅናቄ ክልላዊ የማጠቃለያ መርሐ ግብር በኮምቦልቻ ከተማ እየተካሄደ ነው።</p>
+<p>የቢሮ ምክትል ኃላፊ ተፈሪ ታረቀኝ በዚህ ወቅት እንዳሉት÷ የኢትዮጵያ ታምርት ንቅናቄ በክልሉ በአምራች ኢንዱስትሪ ዘርፉ የነበሩ ችግሮችን እየፈታ መጥቷል።</p>
+<p>በተለይም ባለሃብቱ ያነሳቸው የነበሩ ጥያቄዎችን ደረጃ በደረጃ ለመፍታት እንዳስቻለ ገልጸው ይህም የአምራች ኢንዱስትሪዎችን ከማስፋፋት ባሻገር የማምረት አቅማቸውን በማሳደግ የውጭ ምንዛሬ ግኝትን ለማስፋት እያገዘ ነው ብለዋል።</p>
+<p>በተያዘው በጀት ዓመት ባለፉት ወራት ብቻ በኢትዮጵያ ታምረት ንቅናቄው 158 መካከለኛና ከፍተኛ አምራች ኢንዱስትሪዎች በአዲስ መልክ ማምረት መጀመራቸውንም ጠቁመዋል።</p>
+<p>“ኢትዮጵያ ታምርት ለሁለንተናዊ ሉዓላዊነት” በሚል መሪ ኃሳብ እየተካሄደ ባለው በዚህ መርሐ ግብር ላይ 145 ኢንዱስትሪዎች ምርትና አገልግሎታቸውን እያስተዋወቁ እንደሚገኙ መገለጹን የክልሉ ኮሙኒኬሽን መረጃ አመልክቷል፡፡</p>
+</div>]",https://www.fanamc.com/archives/316417
+Amharic,"Apr 3, 2025",ቢዝነስ,No title,[],https://www.fanamc.com/archives/category/fana-checker
+Amharic,"Jul 5, 2021",ቢዝነስ,No title,[],https://www.fanamc.com/archives/category/fana_90
